@@ -2,6 +2,7 @@
 Awesome-papers is a collection of awesome papers about cloud computing including resource management, serverless, microservice,  observerbility and so on.
 
 # Catalogue
+- [root cause analysis](./root_cause_analysis/README.md)
 
 # Contributing
 
@@ -9,7 +10,7 @@ Pull requests for adding new papers and fixing bugs are welcome.
 
 ### Add new direction
 
-Creat a new fold in the root directory and then creat a new markdown file in this fold
+Creat a new fold in the root directory and then creat a new markdown file in this fold.
 
 ### Add new papers
 
@@ -26,12 +27,12 @@ For example
 
 ### 新增方向
 
-对于当前不具备的大方向，可以创建新的目录并在新目录内创建新的 'README.md' 文档
+对于当前不具备的大方向，可以创建新的目录并在新目录内创建新的 `README.md` 文档
 
 
 ### 新增论文
 
-进入对应方向的文件夹内，然后按下面的格式修改 'README.md' 文档，根据年份降序排列论文
+进入对应方向的文件夹内，然后按下面的格式修改 `README.md` 文档，根据年份降序排列论文
 
 ```
 year_confluence/journal name_papername [[paper]](paper links) [[note]](note links) [[code]](code links) [[video]](video links) [[ppt]](ppt links)
