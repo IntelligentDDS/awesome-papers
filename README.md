@@ -2,7 +2,7 @@
 Awesome-papers is a collection of awesome papers about cloud computing including resource management, serverless, microservice,  observerbility and so on.
 
 # Catalogue
-- [root cause analysis](./root_cause_analysis/README.md)
+- [root cause analysis](./Root_cause_analysis/README.md)
 
 # Contributing
 
