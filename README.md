@@ -5,6 +5,7 @@ Awesome-papers is a collection of awesome papers about cloud computing including
 - [Anomaly Detection](./Anomaly_detection/README.md)
 - [Chaos Engineering](./Chaos_engineering/README.md)
 - [Root cause analysis](./Root_cause_analysis/README.md)
+- [Telemetry](./Telemetry/README.md)
 
 
 # Contributing
