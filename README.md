@@ -20,7 +20,7 @@ Creat a new fold in the root directory and then creat a new markdown file in thi
 
 ### Add new papers
 
-Enter the target directory and add the paper in the README.md file follow the below format, arranging the papers in descending order by year 
+Enter the target directory and add the paper in the README.md file follow the below format, arranging the papers in **descending order** by year 
 
 ```
 year_confluence/journal name_papername [[paper]](paper links) [[note]](note links) [[code]](code links) [[video]](video links) [[ppt]](ppt links)
@@ -38,7 +38,7 @@ For example
 
 ### 新增论文
 
-进入对应方向的文件夹内，然后按下面的格式修改 `README.md` 文档，根据年份降序排列论文
+进入对应方向的文件夹内，然后按下面的格式修改 `README.md` 文档，根据年份**降序**排列论文
 
 ```
 year_confluence/journal name_papername [[paper]](paper links) [[note]](note links) [[code]](code links) [[video]](video links) [[ppt]](ppt links)
