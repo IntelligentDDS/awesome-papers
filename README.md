@@ -7,6 +7,7 @@ Awesome-papers is a collection of awesome papers about cloud computing including
 - [Resource schedule](./Resource_schedule/README.md)
 - [Root Cause Analysis](./Root_cause_analysis/README.md)
 - [Telemetry](./Telemetry/README.md)
+- [Performance](./Performance/README.md)
 
 
 # Contributing
