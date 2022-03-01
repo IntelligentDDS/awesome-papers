@@ -4,6 +4,7 @@
 - [Chaos engineering](#chaos-engineering)
   - [Fault injection](#fault-injection)
   - [Fault Recovery](#fault-recovery)
+  - [Chaos in AI system](#chaos-in-ai-system)
 
 ## Fault injection
 - 20_ICWS_Fitness-guided Resilience Testing of Microservice-based Applications [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9283918)
@@ -14,3 +15,8 @@
 
 ## Fault Recovery
 - 21_DSN_FIRestarter: Practical Software Crash Recovery with Targeted Library-level Fault Injection [[paper]](https://download.vusec.net/papers/firestarter_dsn21.pdf) [[code]](https://github.com/vusec/firestarter)
+
+
+## Chaos in AI system
+
+- 20_ICSE_Taxonomy of Real Faults in Deep Learning Systems [[paper]](https://arxiv.org/pdf/1910.11015.pdf)
