@@ -6,6 +6,7 @@
   - [Log](#log)
   - [Trace](#trace)
   - [Metric and Trace](#metric-and-trace)
+  - [Network](#network)
 
 
 ## Metric
@@ -25,3 +26,6 @@
 
 ## Metric and Trace
 - 21_ASPLOS_Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices [[paper]](https://www.csl.cornell.edu/~delimitrou/papers/2021.asplos.sage.pdf)
+
+## Network
+- 20_Sigcomm_Microscope: Queue-based Performance Diagnosis for Network Functions [[paper]](https://dl.acm.org/doi/pdf/10.1145/3387514.3405876)
