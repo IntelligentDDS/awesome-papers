@@ -16,6 +16,9 @@
 
 - 21_ISSTA_Faster, Deeper, Easier: Crowdsourcing Diagnosis of Microservice Kernel Failure from User Space [[paper]](https://dl.acm.org/doi/abs/10.1145/3460319.3464805) [[code]](https://github.com/PanYicheng/dycause_rca)
 
+- DeCaf: Diagnosing and Triaging Performance Issues in Large-Scale Cloud Services [[paper]](https://dl.acm.org/doi/pdf/10.1145/3377813.3381353) [[code]](https://github.com/SEALABQualityGroup/replication_delag/blob/main/techniques/decaf/decaf.py)
+  
+
 ## Trace
 
 - 22_ESE_Enjoy your observability: an industrial survey of microservice tracing and analysis [[paper]](https://link.springer.com/article/10.1007/s10664-021-10063-9) 
