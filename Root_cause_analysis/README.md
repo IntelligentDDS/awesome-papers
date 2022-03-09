@@ -16,7 +16,7 @@
 
 - 21_ISSTA_Faster, Deeper, Easier: Crowdsourcing Diagnosis of Microservice Kernel Failure from User Space [[paper]](https://dl.acm.org/doi/abs/10.1145/3460319.3464805) [[code]](https://github.com/PanYicheng/dycause_rca)
 
-- DeCaf: Diagnosing and Triaging Performance Issues in Large-Scale Cloud Services [[paper]](https://dl.acm.org/doi/pdf/10.1145/3377813.3381353) [[code]](https://github.com/SEALABQualityGroup/replication_delag/blob/main/techniques/decaf/decaf.py)
+- 20_ICSE-SEIP_DeCaf: Diagnosing and Triaging Performance Issues in Large-Scale Cloud Services [[paper]](https://dl.acm.org/doi/pdf/10.1145/3377813.3381353) [[code]](https://github.com/SEALABQualityGroup/replication_delag/blob/main/techniques/decaf/decaf.py)
   
 
 ## Trace
@@ -26,6 +26,7 @@
 - 21_JSEP_TraceRank: Abnormal service localization with dis‐aggregated end‐to‐end tracing data in cloud native systems [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/smr.2413)
 - 20_CCGrid_T-Rank:A Lightweight Spectrum based Fault Localization Approach for Microservice Systems [[paper]](https://ieeexplore.ieee.org/abstract/document/9499404)
 - 18_Asplos_FCatch: Automatically Detecting Time-of-fault Bugs in Cloud Systems [[paper]](https://dl.acm.org/doi/10.1145/3296957.3177161)
+- 18_ATC_Troubleshooting Transiently-Recurring Problems in Production Systems with Blame-Proportional Logging [[paper]](https://www.usenix.org/conference/atc18/presentation/luo)
 
 
 ## Metric and Trace
