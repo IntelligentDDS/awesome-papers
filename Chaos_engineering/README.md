@@ -20,3 +20,7 @@
 ## Chaos in AI system
 
 - 20_ICSE_Taxonomy of Real Faults in Deep Learning Systems [[paper]](https://arxiv.org/pdf/1910.11015.pdf)
+
+## Failure Diagnose
+
+- 17_TPDS_Failure Diagnosis for Distributed Systems Using Targeted Fault Injection [[paper]](https://ieeexplore.ieee.org/document/7484300)
