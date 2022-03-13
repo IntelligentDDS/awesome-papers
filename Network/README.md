@@ -19,3 +19,6 @@
 
 - 21_SIGCOMM_CocoSketch: High-Performance Sketch-based Measurement over Arbitrary Partial Key Query [[paper]](https://zaoxing.github.io/papers/2021/SIGCOMM21-CocoSketch.pdf)[[video]](https://yangtonghome.github.io/uploads/video/CoCo.mp4)[[code]](https://github.com/yindazhang/CocoSketch)
 
+## DDoS Detection
+
+- 21_USENIX_Security_Jaqen: A High-Performance Switch-Native Approach for Detecting and Mitigating Volumetric DDoS Attacks with Programmable Switches [[paper]](https://www.usenix.org/conference/usenixsecurity21/presentation/liu-zaoxing)
