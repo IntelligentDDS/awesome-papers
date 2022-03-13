@@ -5,6 +5,7 @@
   - [Fault injection](#fault-injection)
   - [Fault Recovery](#fault-recovery)
   - [Chaos in AI system](#chaos-in-ai-system)
+  - [Failure Diagnose](#failure-diagnose)
 
 ## Fault injection
 - 20_ICWS_Fitness-guided Resilience Testing of Microservice-based Applications [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9283918)
@@ -19,7 +20,9 @@
 
 ## Chaos in AI system
 
+- 22_Toward Understanding Deep Learning Framework Bugs [[paper]](https://arxiv.org/pdf/2203.04026.pdf)
 - 20_ICSE_Taxonomy of Real Faults in Deep Learning Systems [[paper]](https://arxiv.org/pdf/1910.11015.pdf)
+
 
 ## Failure Diagnose
 
