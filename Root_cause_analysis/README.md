@@ -22,6 +22,7 @@
 ## Trace
 
 - 22_ESE_Enjoy your observability: an industrial survey of microservice tracing and analysis [[paper]](https://link.springer.com/article/10.1007/s10664-021-10063-9) 
+- 21_Usenix ATC_Argus: Debugging Performance Issues in Modern Desktop Applications with Annotated Causal Tracing [[paper]](https://www.usenix.org/system/files/atc21-weng.pdf) [[code]](https://github.com/columbia/ArgusDebugger) Awarded Best Paper! 👍
 - 21_WWW_MicroRank: End-to-End Latency Issue Localization with Extended Spectrum Analysis in Microservice Environments [[paper]](https://dl.acm.org/doi/10.1145/3442381.3449905) [[code]](https://github.com/IntelligentDDS/MicroRank)
 - 21_JSEP_TraceRank: Abnormal service localization with dis‐aggregated end‐to‐end tracing data in cloud native systems [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/smr.2413)
 - 20_CCGrid_T-Rank:A Lightweight Spectrum based Fault Localization Approach for Microservice Systems [[paper]](https://ieeexplore.ieee.org/abstract/document/9499404)
