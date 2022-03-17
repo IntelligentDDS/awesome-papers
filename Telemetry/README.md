@@ -5,6 +5,7 @@
   - [Metric](#metric)
   - [Log](#log)
   - [Entropy](#entropy)
+  - [Flow](#flow)
 
 ## Metric
 
@@ -24,3 +25,9 @@ for Microservice Systems with eBPF [[paper]](https://yuxiaoba.github.io/publicat
 ## Entropy
 
 - 12_ICSE_On the Naturalness of Software [[paper]](https://people.inf.ethz.ch/suz/publications/natural.pdf)
+
+## Flow
+
+- 22_NSDI_Closed-loop Network Performance Monitoring and Diagnosis with SpiderMon [[paper]](https://www.cs.rice.edu/~eugeneng/papers/NSDI22-SpiderMon.pdf)
+- 21_NSDI_Debugging Transient Faults in Data Centers using Synchronized Network-Wide Packet Histories [[paper]](https://www.usenix.org/conference/nsdi21/presentation/kannan)
+- 20_SIGCOMM_PINT: Probabilistic In-Band Network Telemetry [[paper]](https://dl.acm.org/doi/10.1145/3387514.3405894) [[code]](https://github.com/ProbabilisticINT)
