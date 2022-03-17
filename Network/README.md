@@ -23,3 +23,7 @@
 ## DDoS Detection
 
 - 21_USENIX_Security_Jaqen: A High-Performance Switch-Native Approach for Detecting and Mitigating Volumetric DDoS Attacks with Programmable Switches [[paper]](https://www.usenix.org/conference/usenixsecurity21/presentation/liu-zaoxing)
+
+## Smart NIC
+
+- 19_ATC_E3: Energy-Efﬁcient Microservices on SmartNIC-Accelerated Servers [[paper]](https://homes.cs.washington.edu/~arvind/papers/e3-smartic.pdf)
