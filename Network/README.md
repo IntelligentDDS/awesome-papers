@@ -10,6 +10,7 @@
 - 21_ASPLOS_Dagger: Efficient and Fast RPCs in Cloud Microservices with Near-Memory Reconfigurable NICs [[paper]](https://www.csl.cornell.edu/~delimitrou/papers/2021.asplos.dagger.pdf)
 - 21_HotNets_Leveraging Service Meshes as a New Network Layer [[paper]](https://dl.acm.org/doi/abs/10.1145/3484266.3487379)
 - 20_ASPLOS_Accelerometer: Understanding Acceleration Opportunities for Data Center Overheads at Hyperscale [[paper]](https://dl.acm.org/doi/10.1145/3373376.3378450)
+- 20_SIGCOMM_Gallium: Automated Software Middlebox Offloading to Programmable Switches [[paper]](https://doi.org/10.1145/3387514.3405869)
 - 17_HotNets_In-Network Computation is a Dumb Idea Whose Time Has Come [[paper]](https://dl.acm.org/doi/10.1145/3152434.3152461)
 
 ## Network Diagnose
