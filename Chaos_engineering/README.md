@@ -6,6 +6,7 @@
   - [Fault Recovery](#fault-recovery)
   - [Chaos in AI system](#chaos-in-ai-system)
   - [Failure Diagnose](#failure-diagnose)
+  - [Incident](#incident)
 
 ## Fault injection
 - 20_ICWS_Fitness-guided Resilience Testing of Microservice-based Applications [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9283918)
@@ -27,3 +28,7 @@
 ## Failure Diagnose
 
 - 17_TPDS_Failure Diagnosis for Distributed Systems Using Targeted Fault Injection [[paper]](https://ieeexplore.ieee.org/document/7484300)
+
+## Incident
+
+- 20_FSE_Towards Intelligent Incident Management: Why We Need It and How We Make It [[paer]](https://dl.acm.org/doi/pdf/10.1145/3368089.3417055)
