@@ -11,6 +11,7 @@
 - 21_HotNets_Leveraging Service Meshes as a New Network Layer [[paper]](https://dl.acm.org/doi/abs/10.1145/3484266.3487379)
 - 20_ASPLOS_Accelerometer: Understanding Acceleration Opportunities for Data Center Overheads at Hyperscale [[paper]](https://dl.acm.org/doi/10.1145/3373376.3378450)
 - 20_SIGCOMM_Gallium: Automated Software Middlebox Offloading to Programmable Switches [[paper]](https://doi.org/10.1145/3387514.3405869)
+- 19_InfocomWorkShop_Application-based QoE support with P4 and OpenFlow [[paper]](https://www.chameleoncloud.org/media/filer_public/7b/b9/7bb9687f-cefc-4c14-aeed-87f5a81192f4/1570480976.pdf)
 - 17_HotNets_In-Network Computation is a Dumb Idea Whose Time Has Come [[paper]](https://dl.acm.org/doi/10.1145/3152434.3152461)
 
 ## Network Diagnose
@@ -28,3 +29,7 @@
 ## Smart NIC
 
 - 19_ATC_E3: Energy-Efﬁcient Microservices on SmartNIC-Accelerated Servers [[paper]](https://homes.cs.washington.edu/~arvind/papers/e3-smartic.pdf)
+
+## Application based Analysis
+
+- 21_ICNP_Demo: Simple Deep Packet Inspection with P4 [[paper]](https://icnp21.cs.ucr.edu/slides/icnp21slides-paper39.pdf)
