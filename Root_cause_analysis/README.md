@@ -11,6 +11,7 @@
 
 ## Metric
 - 20_IWQoS_Localizing Failure Root Causes in a Microservice through Causality Inference [[paper]](https://ieeexplore.ieee.org/document/9213058)
+- 14_NSDI_Adtributor: Revenue Debugging in Advertising Systems [[paper]](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-bhagwan.pdf)
 
 ## Log
 
