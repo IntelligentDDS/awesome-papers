@@ -29,7 +29,7 @@
 - 20_CCGrid_T-Rank:A Lightweight Spectrum based Fault Localization Approach for Microservice Systems [[paper]](https://ieeexplore.ieee.org/abstract/document/9499404)
 - 18_Asplos_FCatch: Automatically Detecting Time-of-fault Bugs in Cloud Systems [[paper]](https://dl.acm.org/doi/10.1145/3296957.3177161)
 - 18_ATC_Troubleshooting Transiently-Recurring Problems in Production Systems with Blame-Proportional Logging [[paper]](https://www.usenix.org/conference/atc18/presentation/luo)
-
+- 14_OSDI_The Mystery Machine: End-to-end performance analysis of large-scale Internet services [[paper]](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chow.pdf)
 
 ## Metric and Trace
 - 21_ASPLOS_Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices [[paper]](https://www.csl.cornell.edu/~delimitrou/papers/2021.asplos.sage.pdf)
