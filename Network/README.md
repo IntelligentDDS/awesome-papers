@@ -7,6 +7,7 @@
   - [Sketch](#sketch)
 
 ## Performance Acceleration
+- 22_NSDI_Tiara: A Scalable and Efﬁcient Hardware Acceleration Architecture for Stateful Layer-4 Load Balancing[[paper]](https://ising.cse.ust.hk/files/tiara_nsdi22.pdf)
 - 21_ASPLOS_Dagger: Efficient and Fast RPCs in Cloud Microservices with Near-Memory Reconfigurable NICs [[paper]](https://www.csl.cornell.edu/~delimitrou/papers/2021.asplos.dagger.pdf)
 - 21_SIGCOMM_Sailfish: Accelerating Cloud-Scale Multi-Tenant Multi-Service Gateways with Programmable  [[paper]](https://doi.org/10.1145/3452296.3472889)
 - 21_HotNets_Leveraging Service Meshes as a New Network Layer [[paper]](https://dl.acm.org/doi/abs/10.1145/3484266.3487379)
