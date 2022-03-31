@@ -37,3 +37,7 @@
 
 - 21_ICNP_Demo: Simple Deep Packet Inspection with P4 [[paper]](https://icnp21.cs.ucr.edu/slides/icnp21slides-paper39.pdf)
 - 21_EuroP4_Kubernetes Load-balancing and related network functions using P4 [[paper]](https://doi.org/10.1145/3493425.3502768)
+
+## Flow Scheduling
+
+- 15_NSDI_Information-Agnostic Flow Scheduling for Commodity Data Centers [[paper]](https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/bai)
