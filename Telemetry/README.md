@@ -21,6 +21,7 @@ for Microservice Systems with eBPF [[paper]](https://yuxiaoba.github.io/publicat
 
 - 21_SRDS_What Distributed Systems Say: A Study of Seven Spark Application Logs [[paper]](https://arxiv.org/pdf/2108.08395.pdf) [[data]](https://github.com/sgholamian/logging_cost)
 - 18_OSDI_Capturing and Enhancing In Situ System Observability for Failure Detection [[paper]](https://www.usenix.org/system/files/osdi18-huang.pdf) [[code]](https://github.com/ryanphuang/panorama)
+- 15_ATC_Log2: A Cost-Aware Logging Mechanism for Performance Diagnosis [[paper]](https://www.usenix.org/system/files/conference/atc15/atc15-paper-ding.pdf)
 
 ## Entropy
 
