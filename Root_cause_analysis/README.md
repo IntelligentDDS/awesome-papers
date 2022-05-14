@@ -8,6 +8,7 @@
   - [Metric and Trace](#metric-and-trace)
   - [Metric, Log and Trace](#metric-log-and-trace)
   - [Network](#network)
+  - [Alert](#alert)
 
 
 ## Metric
@@ -42,3 +43,6 @@
 
 ## Network
 - 20_Sigcomm_Microscope: Queue-based Performance Diagnosis for Network Functions [[paper]](https://dl.acm.org/doi/pdf/10.1145/3387514.3405876)
+
+## Alert
+- 20_Infocom_Automatically and Adaptively Identifying Severe Alerts for Online Service Systems [[paper]](https://netman.aiops.org/wp-content/uploads/2020/07/alertrank_camera-ready.pdf)
