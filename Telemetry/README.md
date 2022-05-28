@@ -4,7 +4,7 @@
 - [Telemetry in cloud](#telemetry-in-cloud)
   - [Metric](#metric)
   - [Log](#log)
-  - [Reduce](#reduce)
+  - [Trace](#trace)
   - [Entropy](#entropy)
   - [Flow](#flow)
 
@@ -18,10 +18,13 @@ for Microservice Systems with eBPF [[paper]](https://yuxiaoba.github.io/publicat
 
 ## Log
 - 21_SRDS_What Distributed Systems Say: A Study of Seven Spark Application Logs [[paper]](https://arxiv.org/pdf/2108.08395.pdf) [[data]](https://github.com/sgholamian/logging_cost)
+- 21_OSDI_CLP: Efficient and Scalable Search on Compressed Text Logs [paper](https://www.usenix.org/conference/osdi21/presentation/rodrigues) [code](https://yscope.com/)
 - 18_OSDI_Capturing and Enhancing In Situ System Observability for Failure Detection [[paper]](https://www.usenix.org/system/files/osdi18-huang.pdf) [[code]](https://github.com/ryanphuang/panorama)
 - 15_ATC_Log2: A Cost-Aware Logging Mechanism for Performance Diagnosis [[paper]](https://www.usenix.org/system/files/conference/atc15/atc15-paper-ding.pdf)
+- 15_ICSE_Learning to Log: Helping Developers Make Informed Logging Decisions [[paper]](https://ieeexplore.ieee.org/document/7194593)
 
-## Reduce
+
+## Trace
 - 21_ICWS_Sieve: Attention-based Sampling of End-to-End Trace Data in Distributed Microservice System [[paper]](https://ieeexplore.ieee.org/abstract/document/9590295/)
 
 ## Entropy

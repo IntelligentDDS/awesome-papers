@@ -20,6 +20,7 @@
 - 21_ISSTA_Faster, Deeper, Easier: Crowdsourcing Diagnosis of Microservice Kernel Failure from User Space [[paper]](https://dl.acm.org/doi/abs/10.1145/3460319.3464805) [[code]](https://github.com/PanYicheng/dycause_rca)
 - 20_ICSE-SEIP_DeCaf: Diagnosing and Triaging Performance Issues in Large-Scale Cloud Services [[paper]](https://dl.acm.org/doi/pdf/10.1145/3377813.3381353) [[code]](https://github.com/SEALABQualityGroup/replication_delag/blob/main/techniques/decaf/decaf.py)
 - 19_ICSE_Mining Historical Test Logs to Predict Bugs and Localize Faults in the Test Logs [[paper]](https://dl.acm.org/doi/pdf/10.1109/ICSE.2019.00031)
+- Identifying Impactful Service System Problems via Log Analysis [[paper]](https://dl.acm.org/doi/10.1145/3236024.3236083) [code](https://github.com/logpai/Log3C)
 - 18_ESEM_Spectrum-Based Log Diagnosis [[paper]](https://dl.acm.org/doi/pdf/10.1145/3382494.3410684)
 - 14_Cluster_Digging Deeper into Cluster System Logs for Failure Prediction and Root Cause Diagnosis [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6968768)
   
