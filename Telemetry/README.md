@@ -20,6 +20,7 @@ for Microservice Systems with eBPF [[paper]](https://yuxiaoba.github.io/publicat
 - 22_ICPC_QuLog: Data-Driven Approach for Log Instruction Quality Assessment[[paper]](https://arxiv.org/abs/2204.02618) [[code]](https://github.com/qulog/QuLog)
 - 21_SRDS_What Distributed Systems Say: A Study of Seven Spark Application Logs [[paper]](https://arxiv.org/pdf/2108.08395.pdf) [[data]](https://github.com/sgholamian/logging_cost)
 - 21_OSDI_CLP: Efficient and Scalable Search on Compressed Text Logs [paper](https://www.usenix.org/conference/osdi21/presentation/rodrigues) [code](https://yscope.com/)
+- 18_ICPE_Log4Perf: Suggesting Logging Locations for Web-based Systems’ Performance Monitoring [[paper]](https://dl.acm.org/doi/10.1145/3184407.3184416)
 - 18_OSDI_Capturing and Enhancing In Situ System Observability for Failure Detection [[paper]](https://www.usenix.org/system/files/osdi18-huang.pdf) [[code]](https://github.com/ryanphuang/panorama)
 - 17_SOSP_Log20: Fully Automated Optimal Placement of Log Printing Statements under Specified Overhead Threshold [[paper]](https://dl.acm.org/doi/10.1145/3132747.3132778)
 - 15_ATC_Log2: A Cost-Aware Logging Mechanism for Performance Diagnosis [[paper]](https://www.usenix.org/system/files/conference/atc15/atc15-paper-ding.pdf)
