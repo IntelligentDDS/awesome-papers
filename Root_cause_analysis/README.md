@@ -12,6 +12,7 @@
 
 
 ## Metric
+- 22_FSE_Actionable and Interpretable Fault Localization for Recurring Failures in Online Service Systems [[paper]](https://arxiv.org/abs/2207.09021) [[code]](https://github.com/NetManAIOps/DejaVu)
 - 20_IWQoS_Localizing Failure Root Causes in a Microservice through Causality Inference [[paper]](https://ieeexplore.ieee.org/document/9213058)
 - 20_NOMS_MicroRCA: Root Cause Localization of Performance Issues in Microservices [[paper]](https://ieeexplore.ieee.org/document/9110353) [[code]](https://github.com/elastisys/MicroRCA)
 - 18_ICSOC_Microscope: Pinpoint Performance Issues with Causal Graphs in Micro-service Environments [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-03596-9_1)
@@ -37,6 +38,7 @@
 - 18_Asplos_FCatch: Automatically Detecting Time-of-fault Bugs in Cloud Systems [[paper]](https://dl.acm.org/doi/10.1145/3296957.3177161)
 - 18_ATC_Troubleshooting Transiently-Recurring Problems in Production Systems with Blame-Proportional Logging [[paper]](https://www.usenix.org/conference/atc18/presentation/luo)
 - 14_OSDI_The Mystery Machine: End-to-end performance analysis of large-scale Internet services [[paper]](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chow.pdf)
+- 02_DSN_Pinpoint: Problem Determination in Large, Dynamic Internet Services [[paper]](https://ieeexplore.ieee.org/document/1029005)
 
 ## Metric and Trace
 - 21_ASPLOS_Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices [[paper]](https://www.csl.cornell.edu/~delimitrou/papers/2021.asplos.sage.pdf)
