@@ -13,6 +13,10 @@
 
 ## Metric
 - 22_FSE_Actionable and Interpretable Fault Localization for Recurring Failures in Online Service Systems [[paper]](https://arxiv.org/abs/2207.09021) [[code]](https://github.com/NetManAIOps/DejaVu)
+- 21_ICSE Workshop_MicroDiag: Fine-grained Performance Diagnosis for Microservice Systems [[paper]](https://hal.inria.fr/hal-03155797/document)
+- 21_ICSE Workshop_MicroHECL: High-Efﬁcient Root Cause Localization in Large-Scale Microservice Systems [[paper]](https://arxiv.org/pdf/2103.01782.pdf)
+- 21_ISSRE_Identifying Root-Cause Metrics for Incident Diagnosis in Online Service Systems [[paper]](http://netman.aiops.org/wp-content/uploads/2021/10/wch_ISSRE-1.pdf)
+- 20_VLDB_VLDB_Diagnosing Root Causes of Intermittent Slow Queries in Cloud Databases [[paper]](http://www.vldb.org/pvldb/vol13/p1176-ma.pdf) [[code]](https://github.com/NetManAIOps/DejaVu/blob/master/iSQUAD/iSQ.py)
 - 20_IWQoS_Localizing Failure Root Causes in a Microservice through Causality Inference [[paper]](https://ieeexplore.ieee.org/document/9213058)
 - 20_NOMS_MicroRCA: Root Cause Localization of Performance Issues in Microservices [[paper]](https://ieeexplore.ieee.org/document/9110353) [[code]](https://github.com/elastisys/MicroRCA)
 - 18_ICSOC_Microscope: Pinpoint Performance Issues with Causal Graphs in Micro-service Environments [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-03596-9_1)
