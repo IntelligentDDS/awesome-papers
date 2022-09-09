@@ -30,6 +30,7 @@
 
 ### Metrics
 
+- 22_ICWS_TS-InvarNet: Anomaly Detection and Localization based on Tempo-spatial KPI Invariants in Distributed Services [[paper]](https://yuxiaoba.github.io/publication/tsinvarnet22/tsInvarNet22.pdf)
 - 21_TNNLS_A Spatiotemporal Deep Learning Approach for Unsupervised Anomaly Detection in Cloud Systems [[paper]](https://ieeexplore.ieee.org/document/9228885) [[dataset]](https://github.com/IntelligentDDS/TopoMAD)
 
 ### Trace

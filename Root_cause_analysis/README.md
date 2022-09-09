@@ -12,6 +12,8 @@
 
 
 ## Metric
+
+- 22_ASE_Graph based Incident Extraction and Diagnosis in Large-Scale Online Systems [[paper]](https://yuxiaoba.github.io/publication/gied22/gied22.pdf) [[code]](https://github.com/IntelligentDDS/GIED)
 - 22_FSE_Actionable and Interpretable Fault Localization for Recurring Failures in Online Service Systems [[paper]](https://arxiv.org/abs/2207.09021) [[code]](https://github.com/NetManAIOps/DejaVu)
 - 21_ICSE Workshop_MicroDiag: Fine-grained Performance Diagnosis for Microservice Systems [[paper]](https://hal.inria.fr/hal-03155797/document)
 - 21_ICSE Workshop_MicroHECL: High-Efﬁcient Root Cause Localization in Large-Scale Microservice Systems [[paper]](https://arxiv.org/pdf/2103.01782.pdf)
@@ -34,6 +36,7 @@
 
 ## Trace
 
+- 22_ICSOC_MicroSketch: Lightweight and Adaptive Sketch based Performance Issue Detection and Localization in Microservice Systems [[paper]](https://yuxiaoba.github.io/publication/microsketch22/microsketch22.pdf)
 - 22_ESE_Enjoy your observability: an industrial survey of microservice tracing and analysis [[paper]](https://link.springer.com/article/10.1007/s10664-021-10063-9) 
 - 21_Usenix ATC_Argus: Debugging Performance Issues in Modern Desktop Applications with Annotated Causal Tracing [[paper]](https://www.usenix.org/system/files/atc21-weng.pdf) [[code]](https://github.com/columbia/ArgusDebugger) Awarded Best Paper! 👍
 - 21_WWW_MicroRank: End-to-End Latency Issue Localization with Extended Spectrum Analysis in Microservice Environments [[paper]](https://dl.acm.org/doi/10.1145/3442381.3449905) [[code]](https://github.com/IntelligentDDS/MicroRank)
