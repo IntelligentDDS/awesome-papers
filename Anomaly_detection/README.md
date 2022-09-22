@@ -32,6 +32,7 @@
 
 - 22_ICWS_TS-InvarNet: Anomaly Detection and Localization based on Tempo-spatial KPI Invariants in Distributed Services [[paper]](https://yuxiaoba.github.io/publication/tsinvarnet22/tsInvarNet22.pdf)
 - 21_TNNLS_A Spatiotemporal Deep Learning Approach for Unsupervised Anomaly Detection in Cloud Systems [[paper]](https://ieeexplore.ieee.org/document/9228885) [[dataset]](https://github.com/IntelligentDDS/TopoMAD)
+- 15_CoNEXT_Rapid and Robust Impact Assessment of Software Changes in Large Internet-based Services [[paper]](https://conferences2.sigcomm.org/co-next/2015/img/papers/conext15-final2.pdf)
 
 ### Trace
 
@@ -40,7 +41,8 @@
 
 ### Log
 
-22_Eurosys_Hybrid Anomaly Detection and Prioritization for Network Logs at Cloud Scale [[paper]](https://dl.acm.org/doi/10.1145/3492321.3519566)
+- 22_Eurosys_Hybrid Anomaly Detection and Prioritization for Network Logs at Cloud Scale [[paper]](https://dl.acm.org/doi/10.1145/3492321.3519566)
+- 20_NSDI_Gandalf: An Intelligent, End-To-End Analytics Service for Safe Deployment in Large-Scale Cloud Infrastructure [[paper]](https://www.usenix.org/conference/nsdi20/presentation/li)
 
 ### Metric and log
 - 22_Heterogeneous Anomaly Detection for Software Systems via Attentive Multi-modal Learning [[paper]]()https://arxiv.org/abs/2207.02918
