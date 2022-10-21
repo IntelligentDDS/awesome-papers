@@ -6,7 +6,7 @@
   - [Log](#log)
   - [Trace](#trace)
   - [Entropy](#entropy)
-  - [Flow](#flow)
+  - [Network](#network)
 
 ## Metric
 
@@ -36,7 +36,7 @@ for Microservice Systems with eBPF [[paper]](https://yuxiaoba.github.io/publicat
 
 - 12_ICSE_On the Naturalness of Software [[paper]](https://people.inf.ethz.ch/suz/publications/natural.pdf)
 
-## Flow
+## Network
 
 - 22_NSDI_Closed-loop Network Performance Monitoring and Diagnosis with SpiderMon [[paper]](https://www.cs.rice.edu/~eugeneng/papers/NSDI22-SpiderMon.pdf)
 - 21_NSDI_Debugging Transient Faults in Data Centers using Synchronized Network-Wide Packet Histories [[paper]](https://www.usenix.org/conference/nsdi21/presentation/kannan)

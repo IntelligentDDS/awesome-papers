@@ -18,9 +18,11 @@
 - 21_ICSE Workshop_MicroDiag: Fine-grained Performance Diagnosis for Microservice Systems [[paper]](https://hal.inria.fr/hal-03155797/document)
 - 21_ICSE Workshop_MicroHECL: High-Efﬁcient Root Cause Localization in Large-Scale Microservice Systems [[paper]](https://arxiv.org/pdf/2103.01782.pdf)
 - 21_ISSRE_Identifying Root-Cause Metrics for Incident Diagnosis in Online Service Systems [[paper]](http://netman.aiops.org/wp-content/uploads/2021/10/wch_ISSRE-1.pdf)
+- 20_ASE_ImpAPTr: A Tool For Identifying The Clues To Online Service Anomalies [[paper]](https://dl.acm.org/doi/10.1145/3324884.3415301) [[code]](https://github.com/wanghaoUp/ImpAPTr)
 - 20_VLDB_VLDB_Diagnosing Root Causes of Intermittent Slow Queries in Cloud Databases [[paper]](http://www.vldb.org/pvldb/vol13/p1176-ma.pdf) [[code]](https://github.com/NetManAIOps/DejaVu/blob/master/iSQUAD/iSQ.py)
 - 20_IWQoS_Localizing Failure Root Causes in a Microservice through Causality Inference [[paper]](https://ieeexplore.ieee.org/document/9213058)
 - 20_NOMS_MicroRCA: Root Cause Localization of Performance Issues in Microservices [[paper]](https://ieeexplore.ieee.org/document/9110353) [[code]](https://github.com/elastisys/MicroRCA)
+- 16_ICSE_iDice: Problem Identification for Emerging Issues [[paper]](http://hongyujohn.github.io/iDice.pdf)
 - 18_ICSOC_Microscope: Pinpoint Performance Issues with Causal Graphs in Micro-service Environments [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-03596-9_1)
 - 14_NSDI_Adtributor: Revenue Debugging in Advertising Systems [[paper]](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-bhagwan.pdf)
 
@@ -56,6 +58,7 @@
 
 ## Network
 - 20_Sigcomm_Microscope: Queue-based Performance Diagnosis for Network Functions [[paper]](https://dl.acm.org/doi/pdf/10.1145/3387514.3405876)
+- 16_Sigcom_The Good, the Bad, and the Differences: Better Network Diagnostics with Differential Provenance [[paper]](https://dl.acm.org/doi/10.1145/2934872.2934910)
 
 ## Alert
 - 20_Infocom_Automatically and Adaptively Identifying Severe Alerts for Online Service Systems [[paper]](https://netman.aiops.org/wp-content/uploads/2020/07/alertrank_camera-ready.pdf)
