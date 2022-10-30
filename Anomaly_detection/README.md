@@ -33,6 +33,9 @@
 - 22_ICWS_TS-InvarNet: Anomaly Detection and Localization based on Tempo-spatial KPI Invariants in Distributed Services [[paper]](https://yuxiaoba.github.io/publication/tsinvarnet22/tsInvarNet22.pdf)
 - 21_TNNLS_A Spatiotemporal Deep Learning Approach for Unsupervised Anomaly Detection in Cloud Systems [[paper]](https://ieeexplore.ieee.org/document/9228885) [[dataset]](https://github.com/IntelligentDDS/TopoMAD)
 - 15_CoNEXT_Rapid and Robust Impact Assessment of Software Changes in Large Internet-based Services [[paper]](https://conferences2.sigcomm.org/co-next/2015/img/papers/conext15-final2.pdf)
+- 13_CoNEXT_Robust Assessment of Changes in Cellular Networks [[paper]](https://dl.acm.org/doi/abs/10.1145/2535372.2535382)
+- 11_Conext_Rapid Detection of Maintenance Induced Changes in Service Performance [[paper]](https://www.cs.utexas.edu/~yzhang/papers/prism-conext11.pdf)
+- 10_SIGCOM_Detecting the Performance Impact of Upgrades in Large Operational Networks [[paper]](https://www.cs.utexas.edu/~yzhang/papers/mercury-sigc10.pdf)
 
 ### Trace
 
