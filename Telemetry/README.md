@@ -32,6 +32,8 @@ for Microservice Systems with eBPF [[paper]](https://yuxiaoba.github.io/publicat
 ## Trace
 - 22_AFETM: Adaptive Function Execution Trace Monitoring for Fault Diagnosis [[paper]](https://arxiv.org/pdf/2210.07486.pdf)
 - 21_ICWS_Sieve: Attention-based Sampling of End-to-End Trace Data in Distributed Microservice System [[paper]](https://ieeexplore.ieee.org/abstract/document/9590295/)
+- 21_SoCC_3MileBeach: A Tracer with Teeth [[paper]](https://aleckdarcy.github.io/3MileBeach_A_Tracer_with_Teeth.pdf)
+- 07_NSDI_X-Trace: A Pervasive Network Tracing Framework [[paper]](https://www.usenix.org/conference/nsdi-07/x-trace-pervasive-network-tracing-framework)
 
 
 ## Entropy
