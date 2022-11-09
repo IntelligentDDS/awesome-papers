@@ -10,8 +10,7 @@
 
 ## Metric
 
-- 21_ICSE Workshop_Kmon: An In-kernel Transparent Monitoring System
-for Microservice Systems with eBPF [[paper]](https://yuxiaoba.github.io/publication/kmon/kmon.pdf) [[code]](https://github.com/IntelligentDDS/Kmon)
+- 21_ICSE Workshop_Kmon: An In-kernel Transparent Monitoring System for Microservice Systems with eBPF [[paper]](https://yuxiaoba.github.io/publication/kmon/kmon.pdf) [[code]](https://github.com/IntelligentDDS/Kmon)
 - 21_Experiences in Managing the Performance and Reliability of a Large-Scale Genomics Cloud Platform [[paper]](https://www.usenix.org/conference/atc21/presentation/tong)
 - 20_NSDI_Google_Meaningful Availability [[paper]](https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf)
 - 19_VLDB_DDSketch: A Fast and Fully-Mergeable Quantile Sketch with Relative-Error Guarantees [[paper]](http://www.vldb.org/pvldb/vol12/p2195-masson.pdf) [[code]](https://github.com/DataDog/sketches-py)
@@ -33,7 +32,9 @@ for Microservice Systems with eBPF [[paper]](https://yuxiaoba.github.io/publicat
 - 22_AFETM: Adaptive Function Execution Trace Monitoring for Fault Diagnosis [[paper]](https://arxiv.org/pdf/2210.07486.pdf)
 - 21_ICWS_Sieve: Attention-based Sampling of End-to-End Trace Data in Distributed Microservice System [[paper]](https://ieeexplore.ieee.org/abstract/document/9590295/)
 - 21_SoCC_3MileBeach: A Tracer with Teeth [[paper]](https://aleckdarcy.github.io/3MileBeach_A_Tracer_with_Teeth.pdf)
+- 10_Google_Dapper, a Large-Scale Distributed Systems Tracing Infrastructure [[paper]](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/papers/dapper-2010-1.pdf)
 - 07_NSDI_X-Trace: A Pervasive Network Tracing Framework [[paper]](https://www.usenix.org/conference/nsdi-07/x-trace-pervasive-network-tracing-framework)
+- 02_DSN_Pinpoint: Problem Determination in Large, Dynamic Internet Services [[paper]](https://ieeexplore.ieee.org/document/1029005)
 
 
 ## Entropy
