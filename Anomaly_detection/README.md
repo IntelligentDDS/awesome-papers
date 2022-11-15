@@ -18,6 +18,7 @@
 
 ### Log
 - 22_TPDS_SwissLog: Robust Anomaly Detection and Localization for Interleaved Unstructured Logs [[paper]](https://ieeexplore.ieee.org/abstract/document/9744513/) [[code]](https://github.com/IntelligentDDS/SwissLog)
+- 22_KDD_Augmenting Log-based Anomaly Detection Models to Reduce False Anomalies with Human Feedback [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539106)
 
 ## Semi-supervised anomaly detection
 ### Metrics
