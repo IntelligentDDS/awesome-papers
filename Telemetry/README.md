@@ -17,6 +17,7 @@
 
 
 ## Log
+- 22_FSE_An Empirical Study of Log Analysis at Microsoft [[paper]](https://dl.acm.org/doi/abs/10.1145/3540250.3558963)
 - 22_ICPC_QuLog: Data-Driven Approach for Log Instruction Quality Assessment[[paper]](https://arxiv.org/abs/2204.02618) [[code]](https://github.com/qulog/QuLog)
 - 21_SRDS_What Distributed Systems Say: A Study of Seven Spark Application Logs [[paper]](https://arxiv.org/pdf/2108.08395.pdf) [[data]](https://github.com/sgholamian/logging_cost)
 - 21_OSDI_CLP: Efficient and Scalable Search on Compressed Text Logs [[paper]](https://www.usenix.org/conference/osdi21/presentation/rodrigues) [[code]](https://yscope.com/)
