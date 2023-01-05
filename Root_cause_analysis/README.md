@@ -22,6 +22,7 @@
 - 20_VLDB_VLDB_Diagnosing Root Causes of Intermittent Slow Queries in Cloud Databases [[paper]](http://www.vldb.org/pvldb/vol13/p1176-ma.pdf) [[code]](https://github.com/NetManAIOps/DejaVu/blob/master/iSQUAD/iSQ.py)
 - 20_IWQoS_Localizing Failure Root Causes in a Microservice through Causality Inference [[paper]](https://ieeexplore.ieee.org/document/9213058)
 - 20_NOMS_MicroRCA: Root Cause Localization of Performance Issues in Microservices [[paper]](https://ieeexplore.ieee.org/document/9110353) [[code]](https://github.com/elastisys/MicroRCA)
+- 20_ICSE_Debugging Crashes using Continuous Contrast Set Mining 
 - 16_ICSE_iDice: Problem Identification for Emerging Issues [[paper]](http://hongyujohn.github.io/iDice.pdf)
 - 18_ICSOC_Microscope: Pinpoint Performance Issues with Causal Graphs in Micro-service Environments [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-03596-9_1)
 - 18_OSDI_Orca: Differential Bug Localization in Large-Scale Services [[paper]](https://www.usenix.org/conference/osdi18/presentation/bhagwan) Awarded Best Paper! 👍
@@ -44,6 +45,7 @@
 - 22_ESE_Enjoy your observability: an industrial survey of microservice tracing and analysis [[paper]](https://link.springer.com/article/10.1007/s10664-021-10063-9) 
 - 21_Usenix ATC_Argus: Debugging Performance Issues in Modern Desktop Applications with Annotated Causal Tracing [[paper]](https://www.usenix.org/system/files/atc21-weng.pdf) [[code]](https://github.com/columbia/ArgusDebugger) Awarded Best Paper! 👍
 - 21_WWW_MicroRank: End-to-End Latency Issue Localization with Extended Spectrum Analysis in Microservice Environments [[paper]](https://dl.acm.org/doi/10.1145/3442381.3449905) [[code]](https://github.com/IntelligentDDS/MicroRank)
+- 21_IWQoS_Practical Root Cause Localization for Microservice Systems via Trace Analysis [[paper]](https://netman.aiops.org/wp-content/uploads/2021/05/1570705191.pdf) [[code]](https://github.com/NetManAIOps/TraceRCA)
 - 21_JSEP_TraceRank: Abnormal service localization with dis‐aggregated end‐to‐end tracing data in cloud native systems [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/smr.2413)
 - 20_CCGrid_T-Rank:A Lightweight Spectrum based Fault Localization Approach for Microservice Systems [[paper]](https://ieeexplore.ieee.org/abstract/document/9499404)
 - 18_Asplos_FCatch: Automatically Detecting Time-of-fault Bugs in Cloud Systems [[paper]](https://dl.acm.org/doi/10.1145/3296957.3177161)

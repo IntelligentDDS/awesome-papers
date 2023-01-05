@@ -1,13 +1,17 @@
-# Chaos engineering
+# Fault_tolerance
 
 **Content**
-- [Chaos engineering](#chaos-engineering)
-  - [Fault injection](#fault-injection)
+- [Fault\_tolerance](#fault_tolerance)
+  - [Chaos engineering](#chaos-engineering)
+    - [Chaos in SE system](#chaos-in-se-system)
+    - [Chaos in AI system](#chaos-in-ai-system)
   - [Fault Recovery](#fault-recovery)
-  - [Chaos in AI system](#chaos-in-ai-system)
   - [Failure Analysis](#failure-analysis)
 
-## Fault injection
+
+## Chaos engineering
+
+### Chaos in SE system
 - 22_FSE_IBIR: Bug Report driven Fault Injection [[paper]](https://arxiv.org/pdf/2012.06506.pdf) [[code]](https://github.com/serval-uni-lu/IBIR)
 - 22_ISSRE_SlowCoach Mutating Code to Simulate Performance Bugs [[paper]](https://ssg.lancs.ac.uk/wp-content/uploads/yq-slowcoach.pdf)
 - 22_SBES_Towards a Fault Taxonomy for Microservices-Based Applications [[paper]](https://dl.acm.org/doi/fullHtml/10.1145/3555228.3555245)
@@ -23,14 +27,14 @@
 - 15_SIGMOD_Lineage-driven Fault Injection [[paper]](https://dl.acm.org/doi/10.1145/2723372.2723711)
 
 
-## Fault Recovery
-- 21_DSN_FIRestarter: Practical Software Crash Recovery with Targeted Library-level Fault Injection [[paper]](https://download.vusec.net/papers/firestarter_dsn21.pdf) [[code]](https://github.com/vusec/firestarter)
-
-
-## Chaos in AI system
+### Chaos in AI system
 
 - 22_Toward Understanding Deep Learning Framework Bugs [[paper]](https://arxiv.org/pdf/2203.04026.pdf)
 - 20_ICSE_Taxonomy of Real Faults in Deep Learning Systems [[paper]](https://arxiv.org/pdf/1910.11015.pdf)
+
+## Fault Recovery
+- 22_SoCC_Method Overloading the Circuit [[paper]](https://dl.acm.org/doi/abs/10.1145/3542929.3563466) [[video]](https://www.youtube.com/watch?v=A3FWuvDEZJI)
+- 21_DSN_FIRestarter: Practical Software Crash Recovery with Targeted Library-level Fault Injection [[paper]](https://download.vusec.net/papers/firestarter_dsn21.pdf) [[code]](https://github.com/vusec/firestarter)
 
 
 ## Failure Analysis
