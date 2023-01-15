@@ -10,6 +10,9 @@
 
 
 ## Autoscale
+- 22_Eurosys_DeepRest: Deep Resource Estimation for
+Interactive Microservices
+ [[paper]](https://dl.acm.org/doi/pdf/10.1145/3492321.3519564) [[code]](https://github.com/IBM/api-tracing-app-management)
 - 22_SoCC_DeepScaling: Microservices AutoScaling for Stable CPU Utilization in Large Scale Cloud Systems [[paper]](https://dl.acm.org/doi/pdf/10.1145/3542929.3563469)
 - 22_SoCC_The Power of Prediction: Microservice Auto Scaling via Workload Learning [[paper]](https://dl.acm.org/doi/abs/10.1145/3542929.3563477)
 - 22_TCC_Microscaler: Cost-effective scaling for microservice applications in the cloud with an online learning approach [[paper]](https://ieeexplore.ieee.org/abstract/document/9057418/)

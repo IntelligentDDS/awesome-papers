@@ -17,7 +17,7 @@
 
 
 ## Log
-- 23_ICSE_LogReducer: Identify and Reduce Log Hotspots inKernel on the Fly 
+- 23_ICSE_LogReducer: Identify and Reduce Log Hotspots inKernel on the Fly [[paper]](https://yuxiaoba.github.io/publication/logreducer22/logreducer22.pdf) [[code]](https://github.com/IntelligentDDS/LogReducer)
 - 22_FSE_An Empirical Study of Log Analysis at Microsoft [[paper]](https://dl.acm.org/doi/abs/10.1145/3540250.3558963)
 - 22_ICPC_QuLog: Data-Driven Approach for Log Instruction Quality Assessment[[paper]](https://arxiv.org/abs/2204.02618) [[code]](https://github.com/qulog/QuLog)
 - 21_SRDS_What Distributed Systems Say: A Study of Seven Spark Application Logs [[paper]](https://arxiv.org/pdf/2108.08395.pdf) [[data]](https://github.com/sgholamian/logging_cost)

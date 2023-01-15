@@ -5,10 +5,10 @@
   - [Supervised anomaly detection](#supervised-anomaly-detection)
     - [Log](#log)
   - [Semi-supervised anomaly detection](#semi-supervised-anomaly-detection)
-    - [Metrics](#metrics)
+    - [Metric](#metric)
     - [Log](#log-1)
   - [Unsupervised anomaly detection](#unsupervised-anomaly-detection)
-    - [Metrics](#metrics-1)
+    - [Metric](#metric-1)
     - [Trace](#trace)
     - [Log](#log-2)
     - [Metric and log](#metric-and-log)
@@ -21,7 +21,7 @@
 - 22_KDD_Augmenting Log-based Anomaly Detection Models to Reduce False Anomalies with Human Feedback [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539106)
 
 ## Semi-supervised anomaly detection
-### Metrics
+### Metric
 - 22_WWW_A Semi-Supervised VAE Based Active Anomaly Detection Framework in Multivariate Time Series for Online Systems [[paper]](https://dl.acm.org/doi/10.1145/3485447.3511984)
 
 ### Log
@@ -29,7 +29,7 @@
 
 ## Unsupervised anomaly detection
 
-### Metrics
+### Metric
 
 - 22_ICWS_TS-InvarNet: Anomaly Detection and Localization based on Tempo-spatial KPI Invariants in Distributed Services [[paper]](https://yuxiaoba.github.io/publication/tsinvarnet22/tsInvarNet22.pdf)
 - 21_TNNLS_A Spatiotemporal Deep Learning Approach for Unsupervised Anomaly Detection in Cloud Systems [[paper]](https://ieeexplore.ieee.org/document/9228885) [[dataset]](https://github.com/IntelligentDDS/TopoMAD)

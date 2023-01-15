@@ -48,6 +48,7 @@
 - 21_IWQoS_Practical Root Cause Localization for Microservice Systems via Trace Analysis [[paper]](https://netman.aiops.org/wp-content/uploads/2021/05/1570705191.pdf) [[code]](https://github.com/NetManAIOps/TraceRCA)
 - 21_JSEP_TraceRank: Abnormal service localization with dis‐aggregated end‐to‐end tracing data in cloud native systems [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/smr.2413)
 - 20_CCGrid_T-Rank:A Lightweight Spectrum based Fault Localization Approach for Microservice Systems [[paper]](https://ieeexplore.ieee.org/abstract/document/9499404)
+- 19_SOSP_The Inflection Point Hypothesis: A Principled Debugging Approach for Locating the Root Cause of a Failure [[paper]](https://dl.acm.org/doi/10.1145/3341301.3359650)
 - 18_Asplos_FCatch: Automatically Detecting Time-of-fault Bugs in Cloud Systems [[paper]](https://dl.acm.org/doi/10.1145/3296957.3177161)
 - 18_ATC_Troubleshooting Transiently-Recurring Problems in Production Systems with Blame-Proportional Logging [[paper]](https://www.usenix.org/conference/atc18/presentation/luo)
 - 16_TPDS_Failure Diagnosis for Distributed Systems using Targeted Fault Injection [[paper]](https://ieeexplore.ieee.org/document/7484300/)
