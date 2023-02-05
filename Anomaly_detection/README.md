@@ -4,12 +4,13 @@
 - [Anomaly detetion](#anomaly-detetion)
   - [Supervised anomaly detection](#supervised-anomaly-detection)
     - [Log](#log)
+    - [Trace](#trace)
   - [Semi-supervised anomaly detection](#semi-supervised-anomaly-detection)
     - [Metric](#metric)
     - [Log](#log-1)
   - [Unsupervised anomaly detection](#unsupervised-anomaly-detection)
     - [Metric](#metric-1)
-    - [Trace](#trace)
+    - [Trace](#trace-1)
     - [Log](#log-2)
     - [Metric and log](#metric-and-log)
   - [Evaluation](#evaluation)
@@ -19,6 +20,10 @@
 ### Log
 - 22_TPDS_SwissLog: Robust Anomaly Detection and Localization for Interleaved Unstructured Logs [[paper]](https://ieeexplore.ieee.org/abstract/document/9744513/) [[code]](https://github.com/IntelligentDDS/SwissLog)
 - 22_KDD_Augmenting Log-based Anomaly Detection Models to Reduce False Anomalies with Human Feedback [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539106)
+
+### Trace
+- 22_ICSE_DeepTraLog: Trace-Log Combined Microservice Anomaly Detection through Graph-based Deep Learning [[paper]](https://cspengxin.github.io/publications/icse22-DeepTraLog.pdf) [[code]](https://fudanselab.github.io/DeepTraLog/)
+- 22_FSE_TraceCRL: Contrastive Representation Learning for Microservice Trace Analysis [[paper]](https://dl.acm.org/doi/pdf/10.1145/3540250.3549146) [[code]](https://fudanselab.github.io/TraceCRL/)
 
 ## Semi-supervised anomaly detection
 ### Metric

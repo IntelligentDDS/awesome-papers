@@ -5,6 +5,7 @@
   - [Metric](#metric)
   - [Log](#log)
   - [Trace](#trace)
+  - [Metric and Log](#metric-and-log)
   - [Metric and Trace](#metric-and-trace)
   - [Metric, Log and Trace](#metric-log-and-trace)
   - [Network](#network)
@@ -54,6 +55,9 @@
 - 16_TPDS_Failure Diagnosis for Distributed Systems using Targeted Fault Injection [[paper]](https://ieeexplore.ieee.org/document/7484300/)
 - 14_OSDI_The Mystery Machine: End-to-end performance analysis of large-scale Internet services [[paper]](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chow.pdf)
 - 02_DSN_Pinpoint: Problem Determination in Large, Dynamic Internet Services [[paper]](https://ieeexplore.ieee.org/document/1029005)
+
+## Metric and Log
+- 21_CIKM_CloudRCA: A Root Cause Analysis Framework for Cloud Computing Platforms [[paper]](https://arxiv.org/abs/2111.03753)
 
 ## Metric and Trace
 - 21_ASPLOS_Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices [[paper]](https://www.csl.cornell.edu/~delimitrou/papers/2021.asplos.sage.pdf)
