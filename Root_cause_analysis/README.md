@@ -10,6 +10,7 @@
   - [Metric, Log and Trace](#metric-log-and-trace)
   - [Network](#network)
   - [Alert](#alert)
+  - [Change](#change)
 
 
 ## Metric
@@ -44,16 +45,20 @@
 - 22_Cloud_Localizing and Explaining Faults in Microservices Using Distributed Tracing [[paper]](https://ieeexplore.ieee.org/document/9860589/)
 - 22_ICSOC_MicroSketch: Lightweight and Adaptive Sketch based Performance Issue Detection and Localization in Microservice Systems [[paper]](https://yuxiaoba.github.io/publication/microsketch22/microsketch22.pdf)
 - 22_ESE_Enjoy your observability: an industrial survey of microservice tracing and analysis [[paper]](https://link.springer.com/article/10.1007/s10664-021-10063-9) 
+- 21_IWQoS_Practical Root Cause Localization for Microservice Systems via Trace Analysis [[paper]](https://netman.aiops.org/wp-content/uploads/2021/05/1570705191.pdf) [[code]](https://github.com/NetManAIOps/TraceRCA)
 - 21_Usenix ATC_Argus: Debugging Performance Issues in Modern Desktop Applications with Annotated Causal Tracing [[paper]](https://www.usenix.org/system/files/atc21-weng.pdf) [[code]](https://github.com/columbia/ArgusDebugger) Awarded Best Paper! 👍
 - 21_WWW_MicroRank: End-to-End Latency Issue Localization with Extended Spectrum Analysis in Microservice Environments [[paper]](https://dl.acm.org/doi/10.1145/3442381.3449905) [[code]](https://github.com/IntelligentDDS/MicroRank)
 - 21_IWQoS_Practical Root Cause Localization for Microservice Systems via Trace Analysis [[paper]](https://netman.aiops.org/wp-content/uploads/2021/05/1570705191.pdf) [[code]](https://github.com/NetManAIOps/TraceRCA)
 - 21_JSEP_TraceRank: Abnormal service localization with dis‐aggregated end‐to‐end tracing data in cloud native systems [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/smr.2413)
+- 20_FSE_Graph-Based Trace Analysis for Microservice Architecture Understanding and Problem Diagnosis [[paper]](https://taoxie.cs.illinois.edu/publications/esecfse20in-trace.pdf)
 - 20_CCGrid_T-Rank:A Lightweight Spectrum based Fault Localization Approach for Microservice Systems [[paper]](https://ieeexplore.ieee.org/abstract/document/9499404)
 - 19_SOSP_The Inflection Point Hypothesis: A Principled Debugging Approach for Locating the Root Cause of a Failure [[paper]](https://dl.acm.org/doi/10.1145/3341301.3359650)
 - 18_Asplos_FCatch: Automatically Detecting Time-of-fault Bugs in Cloud Systems [[paper]](https://dl.acm.org/doi/10.1145/3296957.3177161)
 - 18_ATC_Troubleshooting Transiently-Recurring Problems in Production Systems with Blame-Proportional Logging [[paper]](https://www.usenix.org/conference/atc18/presentation/luo)
 - 16_TPDS_Failure Diagnosis for Distributed Systems using Targeted Fault Injection [[paper]](https://ieeexplore.ieee.org/document/7484300/)
 - 14_OSDI_The Mystery Machine: End-to-end performance analysis of large-scale Internet services [[paper]](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chow.pdf)
+- 04_OSDI_Using Magpie for request extraction and workload modelling [[paper]](https://www.cs.columbia.edu/~junfeng/17sp-e6121/papers/magpie.pdf)
+- 04_NSDI_Path-Based Failure and Evolution Management [[paper]](https://people.eecs.berkeley.edu/~brewer/papers/nsdi2004_chen_paths.pdf)
 - 02_DSN_Pinpoint: Problem Determination in Large, Dynamic Internet Services [[paper]](https://ieeexplore.ieee.org/document/1029005)
 
 ## Metric and Log
@@ -64,6 +69,7 @@
 
 ## Metric, Log and Trace
 - 23_ICSE_Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data 
+- 22_TSE_TrinityRCL: Multi-Granular and Code-Level Root Cause Localization Using Multiple Types of Telemetry Data in Microservice Systems [[paper]]()
 - 22_ICSE_PerfSig: Extracting Performance Bug Signatures via Multi-modality Causal Analysis [[paper]](https://jhe16.github.io/files/ICSE22.pdf) [[code]](https://github.com/jhe16/PerfSig)
 - - 21_IPDSP_Diagnosing Performance Issues in Microservices with Heterogeneous Data Source [[paper]](http://www.cloud-conf.net/ispa2021/proc/pdfs/ISPA-BDCloud-SocialCom-SustainCom2021-3mkuIWCJVSdKJpBYM7KEKW/264600a493/264600a493.pdf)
 - 20_ESOCC_Multi-source Distributed System Data for AI-Powered Analytics [[paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-44769-4_13.pdf) [[[data]](https://zenodo.org/record/3549604#.YkJeszNBy3I) [[code]](https://github.com/snedelkoski/multi-source-observability-dataset)
@@ -75,3 +81,6 @@
 ## Alert
 - 20_ICSE_Understanding and handling alert storm for online service systems [[paper]](https://dl.acm.org/doi/abs/10.1145/3377813.3381363) 
 - 20_INFOCOM_Automatically and Adaptively Identifying Severe Alerts for Online Service Systems [[paper]](https://netman.aiops.org/wp-content/uploads/2020/07/alertrank_camera-ready.pdf)
+
+## Change
+
