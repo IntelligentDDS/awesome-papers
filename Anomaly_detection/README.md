@@ -37,6 +37,7 @@
 ### Metric
 
 - 22_ICWS_TS-InvarNet: Anomaly Detection and Localization based on Tempo-spatial KPI Invariants in Distributed Services [[paper]](https://yuxiaoba.github.io/publication/tsinvarnet22/tsInvarNet22.pdf)
+- 21_Sigcomm_A Composition Framework for Change Management [[paper]](https://dl.acm.org/doi/abs/10.1145/3452296.3472901)
 - 21_TNNLS_A Spatiotemporal Deep Learning Approach for Unsupervised Anomaly Detection in Cloud Systems [[paper]](https://ieeexplore.ieee.org/document/9228885) [[dataset]](https://github.com/IntelligentDDS/TopoMAD)
 - 21_ATC_Jump-Starting Multivariate Time Series Anomaly Detection for Online Service Systems [[paper]](https://www.usenix.org/system/files/atc21-ma.pdf)
 - 20_KDD_USAD: UnSupervised Anomaly Detection on Multivariate Time Series [[paper]](https://dl.acm.org/doi/10.1145/3394486.3403392) [[code]]

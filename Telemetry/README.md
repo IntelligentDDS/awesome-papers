@@ -36,6 +36,7 @@
 - 21_SoCC_3MileBeach: A Tracer with Teeth [[paper]](https://aleckdarcy.github.io/3MileBeach_A_Tracer_with_Teeth.pdf)
 - 10_Google_Dapper, a Large-Scale Distributed Systems Tracing Infrastructure [[paper]](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/papers/dapper-2010-1.pdf)
 - 07_NSDI_X-Trace: A Pervasive Network Tracing Framework [[paper]](https://www.usenix.org/conference/nsdi-07/x-trace-pervasive-network-tracing-framework)
+- 04_OSDI_Using Magpie for request extraction and workload modelling [[paper]](https://www.cs.columbia.edu/~junfeng/17sp-e6121/papers/magpie.pdf)
 - 02_DSN_Pinpoint: Problem Determination in Large, Dynamic Internet Services [[paper]](https://ieeexplore.ieee.org/document/1029005)
 
 
