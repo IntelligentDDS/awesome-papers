@@ -48,7 +48,7 @@
 - 21_IWQoS_Practical Root Cause Localization for Microservice Systems via Trace Analysis [[paper]](https://netman.aiops.org/wp-content/uploads/2021/05/1570705191.pdf) [[code]](https://github.com/NetManAIOps/TraceRCA)
 - 21_Usenix ATC_Argus: Debugging Performance Issues in Modern Desktop Applications with Annotated Causal Tracing [[paper]](https://www.usenix.org/system/files/atc21-weng.pdf) [[code]](https://github.com/columbia/ArgusDebugger) Awarded Best Paper! 👍
 - 21_WWW_MicroRank: End-to-End Latency Issue Localization with Extended Spectrum Analysis in Microservice Environments [[paper]](https://dl.acm.org/doi/10.1145/3442381.3449905) [[code]](https://github.com/IntelligentDDS/MicroRank)
-- 21_IWQoS_Practical Root Cause Localization for Microservice Systems via Trace Analysis [[paper]](https://netman.aiops.org/wp-content/uploads/2021/05/1570705191.pdf) [[code]](https://github.com/NetManAIOps/TraceRCA)
+- 21_ICSE_Scalable Statistical Root Cause Analysis on App Telemetry [[paper]](https://arxiv.org/abs/2010.09974)
 - 21_JSEP_TraceRank: Abnormal service localization with dis‐aggregated end‐to‐end tracing data in cloud native systems [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/smr.2413)
 - 20_FSE_Graph-Based Trace Analysis for Microservice Architecture Understanding and Problem Diagnosis [[paper]](https://taoxie.cs.illinois.edu/publications/esecfse20in-trace.pdf)
 - 20_CCGrid_T-Rank:A Lightweight Spectrum based Fault Localization Approach for Microservice Systems [[paper]](https://ieeexplore.ieee.org/abstract/document/9499404)
