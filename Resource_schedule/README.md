@@ -23,3 +23,8 @@ Interactive Microservices
 - 19_ICWS_Microscaler: Automatic scaling for microservices with an online learning approach [[paper]](https://ieeexplore.ieee.org/document/8818401/)
 - 19_CloudCom_Learning Predictive Autoscaling Policies for Cloud-hosted Microservices Using Trace-driven Modeling [[paper]](https://ieeexplore.ieee.org/document/8968889)
 - 19_Cloud_Horizontal and vertical scaling of container-based applications using reinforcement learning [[paper]](https://ieeexplore.ieee.org/document/8814555)
+
+
+## Job Schedule
+
+19_Eurosys_GrandSLAm: Guaranteeing SLAs for Jobs in Microservices Execution Frameworks [[paper]](https://jeongseob.github.io/papers/kannan_eurosys19.pdf)
