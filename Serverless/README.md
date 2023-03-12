@@ -12,5 +12,6 @@
 ## Serverless on Cloud
 
 ### Resource Management
+- 22_Cloud_SLAM: SLO-Aware Memory Optimization for Serverless Applications [[paper]](https://arxiv.org/pdf/2207.06183.pdf)
 - 22_SoCC_SIMPPO: A Scalable and Incremental Online Learning Framework for Serverless Resource Management [[paper]](https://haoran-qiu.com/pdf/socc22.pdf)
 - 21_SC_Understanding, Predicting and Scheduling Serverless Workloads under Partial Interference [[paper]](https://dl.acm.org/doi/10.1145/3458817.3476215) [[code]](https://zenodo.org/record/5147569#.YnsIvDNBy3I)
