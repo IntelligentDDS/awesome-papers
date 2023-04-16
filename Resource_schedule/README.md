@@ -28,3 +28,8 @@ Interactive Microservices
 ## Job Schedule
 
 19_Eurosys_GrandSLAm: Guaranteeing SLAs for Jobs in Microservices Execution Frameworks [[paper]](https://jeongseob.github.io/papers/kannan_eurosys19.pdf)
+
+
+## Power Control
+
+23_WWW_DDPC: Automated Data-Driven Power-Performance Controller Design on-the-fly for Latency-sensitive Web Services
