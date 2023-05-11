@@ -10,7 +10,7 @@
   - [Metric, Log and Trace](#metric-log-and-trace)
   - [Network](#network)
   - [Alert](#alert)
-  - [Code](#code)
+  - [Change](#change)
 
 
 ## Metric
@@ -85,5 +85,5 @@
 - 20_INFOCOM_Automatically and Adaptively Identifying Severe Alerts for Online Service Systems [[paper]](https://netman.aiops.org/wp-content/uploads/2020/07/alertrank_camera-ready.pdf)
 
 
-## Code
+## Change
 18_OSDI_Orca: Differential Bug Localization in Large-Scale Services [[paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/10/Orca-OSDI.pdf)
