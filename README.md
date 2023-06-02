@@ -10,6 +10,7 @@ Awesome-papers is a collection of awesome papers about cloud computing including
 - [Serverless](./Serverless/README.md)
 - [Telemetry](./Telemetry/README.md)
 - [Network](./Network/README.md)
+- [LLM4Ops](./LLM4Ops/README.md)
 - [MLOps](./MLOps/README.md)
 - [eBPF](./eBPF/README.md)
 
