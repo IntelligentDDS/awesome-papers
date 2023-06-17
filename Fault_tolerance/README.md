@@ -12,10 +12,15 @@
 ## Chaos engineering
 
 ### Chaos in SE system
+- 23_ICSE_Coverage Guided Fault Injection for Cloud Systems [[paper]](http://www.tcse.cn/~gaoyu15/paper/2023-icse-crashfuzz.pdf) [[code]](https://github.com/tcseiscas/crashfuzz)
+- 23_NSDI_Push-Button Reliability Testing for Cloud-Backed Applications with Rainmaker [[paper]](https://www.usenix.org/system/files/nsdi23-chen-yinfang.pdf) [[code]](https://github.com/xlab-uiuc/rainmaker)
+- 23_Eurosys_Fail through the Cracks: Cross-System Interaction Failures in Modern Cloud Systems [[paper]](https://tianyin.github.io/pub/csi-failures.pdf) [[code]](https://github.com/xlab-uiuc/csi-ae)
+- 22_OSDI_Automatic Reliability Testing for Cluster Management Controllers [[paper]](https://www.usenix.org/conference/osdi22/presentation/sun) [[code]](https://github.com/sieve-project/sieve)
 - 22_FSE_IBIR: Bug Report driven Fault Injection [[paper]](https://arxiv.org/pdf/2012.06506.pdf) [[code]](https://github.com/serval-uni-lu/IBIR)
 - 22_ISSRE_SlowCoach Mutating Code to Simulate Performance Bugs [[paper]](https://ssg.lancs.ac.uk/wp-content/uploads/yq-slowcoach.pdf)
 - 22_SBES_Towards a Fault Taxonomy for Microservices-Based Applications [[paper]](https://dl.acm.org/doi/fullHtml/10.1145/3555228.3555245)
 - 20_DSN_ProFIPy: Programmable Software Fault Injection as-a-Service [[paper]](https://dl.acm.org/doi/10.1145/2841425)
+- 20_ASE_CoFI: Consistency-Guided Fault Injection for Cloud Systems [[paper]](https://web.cse.ohio-state.edu/~qin.34/pub-papers/CoFI-ASE20.pdf) [[code]](https://hanseychen.github.io/CoFI/)
 - 20_ICWS_Fitness-guided Resilience Testing of Microservice-based Applications [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9283918)
 - 19_HotCloud_Co-evolving Tracing and Fault Injection with Box of Pain [[paper]](https://www.usenix.org/system/files/hotcloud19-paper-bittman.pdf)
 - 19_ChaosRCA_Observability and Chaos Engineering on System [[paper]](https://arxiv.org/abs/1907.13039)
@@ -44,6 +49,7 @@
 - 21_SOSP_Understanding and Detecting Software Upgrade Failures in Distributed Systems [[paper]](https://www.cs.purdue.edu/homes/yonglezh/pub/upgrade-sosp21.pdf)
 - 20_FSE_Towards Intelligent Incident Management: Why We Need It and How We Make It [[paer]](https://dl.acm.org/doi/pdf/10.1145/3368089.3417055)
 - 19_ICSE-SEIP_An Empirical Investigation of Incident Triage for Online Service Systems [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8804464)
+- 18_OSDI_An Analysis of Network-Partitioning Failures in Cloud Systems [[paper]](https://www.usenix.org/system/files/osdi18-alquraan.pdf)
 - 17_TPDS_Failure Diagnosis for Distributed Systems Using Targeted Fault Injection [[paper]](https://ieeexplore.ieee.org/document/7484300)
 - 16_SIGCOM_Taking the Blame Game out of Data Centers Operations with NetPoirot [[paper]](https://dl.acm.org/doi/10.1145/2934872.2934884)
 
