@@ -44,6 +44,7 @@
 
 ## Trace
 
+- 23_DATE_ImpactTracer: Root Cause Localization in Microservices Based on Fault Propagation Modeling [[paper]](https://ieeexplore.ieee.org/document/10137078)
 - 22_Cloud_Localizing and Explaining Faults in Microservices Using Distributed Tracing [[paper]](https://ieeexplore.ieee.org/document/9860589/)
 - 22_ICSOC_MicroSketch: Lightweight and Adaptive Sketch based Performance Issue Detection and Localization in Microservice Systems [[paper]](https://yuxiaoba.github.io/publication/microsketch22/microsketch22.pdf)
 - 22_ESE_Enjoy your observability: an industrial survey of microservice tracing and analysis [[paper]](https://link.springer.com/article/10.1007/s10664-021-10063-9) 
@@ -71,12 +72,15 @@
 
 ## Metric, Log and Trace
 - 23_ICSE_Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data [[paper]](https://arxiv.org/pdf/2302.05092.pdf)
+- 22_ICCBR_MicroCBR: Case-Based Reasoning on Spatio-temporal Fault Knowledge Graph for Microservices Troubleshooting [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-14923-8_15) [[code]](https://github.com/Fengrui-Liu/MicroCBR)
 - 22_TSE_TrinityRCL: Multi-Granular and Code-Level Root Cause Localization Using Multiple Types of Telemetry Data in Microservice Systems [[paper]](https://ieeexplore.ieee.org/document/10034937/)
 - 22_ICSE_PerfSig: Extracting Performance Bug Signatures via Multi-modality Causal Analysis [[paper]](https://jhe16.github.io/files/ICSE22.pdf) [[code]](https://github.com/jhe16/PerfSig)
 - - 21_IPDSP_Diagnosing Performance Issues in Microservices with Heterogeneous Data Source [[paper]](http://www.cloud-conf.net/ispa2021/proc/pdfs/ISPA-BDCloud-SocialCom-SustainCom2021-3mkuIWCJVSdKJpBYM7KEKW/264600a493/264600a493.pdf)
-- 20_ESOCC_Multi-source Distributed System Data for AI-Powered Analytics [[paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-44769-4_13.pdf) [[[data]](https://zenodo.org/record/3549604#.YkJeszNBy3I) [[code]](https://github.com/snedelkoski/multi-source-observability-dataset)
+- 20_ESOCC_Multi-source Distributed System Data for AI-Powered Analytics [[paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-44769-4_13.pdf) [[[data](https://zenodo.org/record/3549604#.YkJeszNBy3I) [[code]](https://github.com/snedelkoski/multi-source-observability-dataset)
 
 ## Network
+
+- 23_ICPP_MARS: Fault Localization in Programmable Networking Systemswith Low-cost In-Band Network Telemetry
 - 20_Sigcom_Microscope: Queue-based Performance Diagnosis for Network Functions [[paper]](https://dl.acm.org/doi/pdf/10.1145/3387514.3405876)
 - 16_Sigcom_The Good, the Bad, and the Differences: Better Network Diagnostics with Differential Provenance [[paper]](https://dl.acm.org/doi/10.1145/2934872.2934910)
 
