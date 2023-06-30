@@ -10,6 +10,7 @@
   - [Metric, Log and Trace](#metric-log-and-trace)
   - [Network](#network)
   - [Alert](#alert)
+  - [Knowledge Graph](#knowledge-graph)
   - [Change](#change)
 
 
@@ -88,6 +89,10 @@
 - 20_ICSE_Understanding and handling alert storm for online service systems [[paper]](https://dl.acm.org/doi/abs/10.1145/3377813.3381363) 
 - 20_INFOCOM_Automatically and Adaptively Identifying Severe Alerts for Online Service Systems [[paper]](https://netman.aiops.org/wp-content/uploads/2020/07/alertrank_camera-ready.pdf)
 
+
+## Knowledge Graph 
+
+- 20_Applied Science_A Causality Mining and Knowledge Graph Based Method of Root Cause Diagnosis for Performance Anomaly in Cloud Applications [[paper]](https://www.mdpi.com/2076-3417/10/6/2166)
 
 ## Change
 18_OSDI_Orca: Differential Bug Localization in Large-Scale Services [[paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/10/Orca-OSDI.pdf)
