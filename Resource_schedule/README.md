@@ -14,6 +14,7 @@
  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3492321.3519564) [[code]](https://github.com/IBM/api-tracing-app-management)
 - 22_SoCC_DeepScaling: Microservices AutoScaling for Stable CPU Utilization in Large Scale Cloud Systems [[paper]](https://dl.acm.org/doi/pdf/10.1145/3542929.3563469)
 - 22_SoCC_The Power of Prediction: Microservice Auto Scaling via Workload Learning [[paper]](https://dl.acm.org/doi/abs/10.1145/3542929.3563477)
+- 21_SoCC_SHOWAR: Right-Sizing And Efficient Scheduling of Microservices [[paper]](https://dl.acm.org/doi/10.1145/3472883.3486999) 
 - 22_TCC_Microscaler: Cost-effective scaling for microservice applications in the cloud with an online learning approach [[paper]](https://ieeexplore.ieee.org/abstract/document/9057418/)
 - 20_OSDI_FIRM: An intelligent fine-grained resource management framework for slo-oriented microservices [[paper]](https://www.usenix.org/conference/osdi20/presentation/qiu)
 - 20_Eurosys_Autopilot: Workload autoscaling at google [[paper]](https://research.google/pubs/pub49174/)
@@ -31,5 +32,5 @@
 
 ## Power Control
 
-23_ICPP_DeepPower: Deep Reinforcement Learning based Power Management for Latency Critical Applications in Multi-core Systems
+23_ICPP_DeepPower: Deep Reinforcement Learning based Power Management for Latency Critical Applications in Multi-core Systems [[paper]](https://yuxiaoba.github.io/publication/deeppower23/deeppower23.pdf)
 23_WWW_DDPC: Automated Data-Driven Power-Performance Controller Design on-the-fly for Latency-sensitive Web Services [[paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583437)

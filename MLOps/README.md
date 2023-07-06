@@ -6,6 +6,7 @@
 - [MLOps](#mlops)
   - [ML Platform](#ml-platform)
   - [MLOps Incident](#mlops-incident)
+  - [ML Communication](#ml-communication)
 
 ## ML Platform
 
@@ -17,3 +18,4 @@
 
 - 23_TSEM_Toward Understanding Deep Learning Framework Bugs [[paper]](https://arxiv.org/pdf/2203.04026.pdf)
 
+## ML Communication

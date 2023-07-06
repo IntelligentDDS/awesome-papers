@@ -24,7 +24,7 @@
 ### Trace
 - 23_WWW_Unsupervised Anomaly Detection on Microservice Traces through Graph VAE [[paper]](https://netman.aiops.org/wp-content/uploads/2023/02/TraceVAE.pdf) 
 - 22_ICSE_DeepTraLog: Trace-Log Combined Microservice Anomaly Detection through Graph-based Deep Learning [[paper]](https://cspengxin.github.io/publications/icse22-DeepTraLog.pdf) [[code]](https://fudanselab.github.io/DeepTraLog/)
-- 22_FSE_TraceCRL: Contrastive Representation Learning for Microservice Trace Analysis [[paper]](https://dl.acm.org/doi/pdf/10.1145/3540250.3549146) [[code]](https://fudanselab.github.io/TraceCRL/)
+
 
 ## Semi-supervised anomaly detection
 ### Metric
@@ -50,6 +50,7 @@
 
 ### Trace
 
+- 22_FSE_TraceCRL: Contrastive Representation Learning for Microservice Trace Analysis [[paper]](https://dl.acm.org/doi/pdf/10.1145/3540250.3549146) [[code]](https://fudanselab.github.io/TraceCRL/)
 - 20_ISSRE_Unsupervised Detection of Microservice Trace Anomalies through Service-Level Deep Bayesian Networks [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9251058) [[code]](https://github.com/NetManAIOps/TraceAnomaly)
 
 

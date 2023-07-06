@@ -1,7 +1,7 @@
-# Fault_tolerance
+# Fault Tolerance
 
 **Content**
-- [Fault\_tolerance](#fault_tolerance)
+- [Fault Tolerance](#fault-tolerance)
   - [Chaos engineering](#chaos-engineering)
     - [Chaos in SE system](#chaos-in-se-system)
     - [Chaos in AI system](#chaos-in-ai-system)

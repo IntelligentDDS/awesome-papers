@@ -81,7 +81,7 @@
 
 ## Network
 
-- 23_ICPP_MARS: Fault Localization in Programmable Networking Systemswith Low-cost In-Band Network Telemetry
+- 23_ICPP_MARS: Fault Localization in Programmable Networking Systemswith Low-cost In-Band Network Telemetry [[paper]](https://yuxiaoba.github.io/publication/mars23/mars23.pdf)
 - 20_Sigcom_Microscope: Queue-based Performance Diagnosis for Network Functions [[paper]](https://dl.acm.org/doi/pdf/10.1145/3387514.3405876)
 - 16_Sigcom_The Good, the Bad, and the Differences: Better Network Diagnostics with Differential Provenance [[paper]](https://dl.acm.org/doi/10.1145/2934872.2934910)
 
