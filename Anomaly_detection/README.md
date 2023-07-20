@@ -5,11 +5,12 @@
   - [Supervised anomaly detection](#supervised-anomaly-detection)
     - [Log](#log)
     - [Trace](#trace)
-  - [Semi-supervised anomaly detection](#semi-supervised-anomaly-detection)
     - [Metric](#metric)
+  - [Semi-supervised anomaly detection](#semi-supervised-anomaly-detection)
+    - [Metric](#metric-1)
     - [Log](#log-1)
   - [Unsupervised anomaly detection](#unsupervised-anomaly-detection)
-    - [Metric](#metric-1)
+    - [Metric](#metric-2)
     - [Trace](#trace-1)
     - [Log](#log-2)
     - [Metric and log](#metric-and-log)
@@ -25,6 +26,10 @@
 - 23_WWW_Unsupervised Anomaly Detection on Microservice Traces through Graph VAE [[paper]](https://netman.aiops.org/wp-content/uploads/2023/02/TraceVAE.pdf) 
 - 22_ICSE_DeepTraLog: Trace-Log Combined Microservice Anomaly Detection through Graph-based Deep Learning [[paper]](https://cspengxin.github.io/publications/icse22-DeepTraLog.pdf) [[code]](https://fudanselab.github.io/DeepTraLog/)
 
+### Metric
+
+- Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding [[paper]](https://arxiv.org/abs/1802.04431) [[code]](https://github.com/khundman/telemanom)
+
 
 ## Semi-supervised anomaly detection
 ### Metric
@@ -36,7 +41,7 @@
 ## Unsupervised anomaly detection
 
 ### Metric
-
+23_KDD_AlerTiger: Deep Learning for AI Model Health Monitoring at LinkedIn [[paper]](https://arxiv.org/abs/2306.01977) [[code]](https://github.com/linkedin/AlerTiger/blob/main/alertiger/src/features.py)
 - 22_ICWS_TS-InvarNet: Anomaly Detection and Localization based on Tempo-spatial KPI Invariants in Distributed Services [[paper]](https://yuxiaoba.github.io/publication/tsinvarnet22/tsInvarNet22.pdf)
 - 21_Sigcomm_A Composition Framework for Change Management [[paper]](https://dl.acm.org/doi/abs/10.1145/3452296.3472901)
 - 21_TNNLS_A Spatiotemporal Deep Learning Approach for Unsupervised Anomaly Detection in Cloud Systems [[paper]](https://ieeexplore.ieee.org/document/9228885) [[dataset]](https://github.com/IntelligentDDS/TopoMAD)
