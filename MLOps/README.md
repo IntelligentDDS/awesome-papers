@@ -9,6 +9,7 @@
   - [ML Anomaly Detection](#ml-anomaly-detection)
   - [ML Fault Tolerance](#ml-fault-tolerance)
   - [ML Communication](#ml-communication)
+  - [ML Mitication](#ml-mitication)
 
 ## ML Platform
 
@@ -18,6 +19,7 @@
 ## MLOps Incident
 
 - 23_TSEM_Toward Understanding Deep Learning Framework Bugs [[paper]](https://arxiv.org/pdf/2203.04026.pdf)
+- 20_ICSE_An Empirical Study on Program Failures of Deep Learning Jobs [[paper]](https://wencongxiao.github.io/res/icse20/icse20-main-199.pdf)
 
 ## ML Anomaly Detection
 
@@ -25,9 +27,12 @@
 
 ## ML Fault Tolerance
 
-- 22_ATC_Sibylla: To Retry or Not To Retry on Deep Learning Job Failure [[paper]](https://www.usenix.org/system/files/atc22-kim-taeyoon.pdf)
 - 19_SOSP_Lineage Stash: Fault Tolerance Off the Critical Path [[paper]](https://stephanie-wang.github.io/pdfs/sosp19-lineage-stash.pdf) [[ppt]](https://sosp19.rcs.uwaterloo.ca/slides/wang.pdf)
 
 ## ML Communication
 
 - 23_MLSys_On Optimizing the Communication of Model Parallelism [[paper]](https://arxiv.org/pdf/2211.05322.pdf)
+
+## ML Mitication
+
+- 22_ATC_Sibylla: To Retry or Not To Retry on Deep Learning Job Failure [[paper]](https://www.usenix.org/system/files/atc22-kim-taeyoon.pdf)

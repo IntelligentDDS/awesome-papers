@@ -40,12 +40,16 @@
 - 15_Cluster_Fast Fault Injection and Sensitivity Analysis for Collective Communications [[paper]](https://ieeexplore.ieee.org/document/7307578)
 
 ## Fault Recovery
+
+- 22_KDD_NENYA: Cascade Reinforcement Learning for Cost-Aware Failure Mitigation at Microsoft 365 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539127)
 - 22_SoCC_Method Overloading the Circuit [[paper]](https://dl.acm.org/doi/abs/10.1145/3542929.3563466) [[video]](https://www.youtube.com/watch?v=A3FWuvDEZJI)
 - 21_DSN_FIRestarter: Practical Software Crash Recovery with Targeted Library-level Fault Injection [[paper]](https://download.vusec.net/papers/firestarter_dsn21.pdf) [[code]](https://github.com/vusec/firestarter)
 
 
 ## Failure Analysis
-- 22_ICSE-SEIP_An Empirical Study on Change-induced Incidents of Online Service Systems [[paper]]()
+
+- 23_Eurosys_Fail through the Cracks: Cross-System Interaction Failures in Modern Cloud Systems [[paper]](https://tianyin.github.io/pub/csi-failures.pdf) [[code]](https://github.com/xlab-uiuc/csi-ae)
+- 22_ICSE-SEIP_An Empirical Study on Change-induced Incidents of Online Service Systems [[paper]](https://ieeexplore.ieee.org/document/10172709)
 - 22_SoCC_How to Fight Production Incidents? An Empirical Study on a Large-scale Cloud Service [[paper]](https://dl.acm.org/doi/10.1145/3542929.3563482) Awarded Best Paper! 👍
 - 22_ISSRE_Going through the Life Cycle of Faults in Clouds:Guidelines on Fault Handling [[paper]](https://yuxiaoba.github.io/publication/incident22/incident22.pdf) [[code]](https://github.com/IntelligentDDS/Post-mortems-Analysis)
 - 21_SOSP_Understanding and Detecting Software Upgrade Failures in Distributed Systems [[paper]](https://www.cs.purdue.edu/homes/yonglezh/pub/upgrade-sosp21.pdf)
