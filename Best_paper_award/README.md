@@ -33,21 +33,64 @@
       - [CIKM](#cikm)
       - [SIGMetrics](#sigmetrics)
       - [WWW](#www)
-    - [](#)
-  - [Semi-supervised anomaly detection](#semi-supervised-anomaly-detection)
-    - [Metric](#metric)
-    - [Log](#log)
-  - [Unsupervised anomaly detection](#unsupervised-anomaly-detection)
-    - [Metric](#metric-1)
-    - [Trace](#trace)
-    - [Log](#log-1)
-    - [Metric and log](#metric-and-log)
-  - [Evaluation](#evaluation)
+  - [2022](#2022)
+    - [System](#system-1)
+      - [OSDI](#osdi-1)
+      - [SOSP](#sosp-1)
+      - [ATC](#atc-1)
+      - [FAST](#fast-1)
+      - [HPCA](#hpca-1)
+      - [MICRO](#micro-1)
+      - [SC](#sc-1)
+      - [EuroSys](#eurosys-1)
+      - [Asplos](#asplos-1)
+      - [SoCC](#socc-1)
+    - [Software](#software-1)
+      - [ICSE](#icse-1)
+      - [FSE](#fse-1)
+      - [ASE](#ase-1)
+      - [ISSTA](#issta-1)
+      - [PLDI](#pldi-1)
+    - [Network](#network-1)
+      - [NSDI](#nsdi-1)
+      - [Sigcom](#sigcom-1)
+      - [INFOCOM](#infocom-1)
+    - [Database](#database-1)
+      - [VLDB](#vldb-1)
+      - [PODS](#pods-1)
+      - [Sigmod](#sigmod-1)
+    - [Data Mining](#data-mining-1)
+      - [KDD](#kdd-1)
+      - [CIKM](#cikm-1)
+      - [SIGMetrics](#sigmetrics-1)
+      - [WWW](#www-1)
 
+
+<div id="toc_container">
+<p class="toc_title">目录</p>
+<ul class="toc_list">
+<li><a href="#2023">2023</a>
+    <ul>
+        <li><a href="#2023System">System</a>
+            <ul>
+                <li><a href="#2023SystemOSDI">OSDI</a></li>
+            </ul>
+        </li>
+        <li><a href="#2023Software">Software</a></li>
+    </ul>
+</li>
+<li><a href="#2022">2022</a></li>
+</ul>
+</div>
+
+<a name="2023"></a>
 ## 2023
 
+<a name="2023System"></a>
 ### System
 
+
+<a name="2023SystemOSDI"></a>
 #### OSDI
 
 #### SOSP
@@ -68,6 +111,7 @@
 
 #### SoCC
 
+<a name="2023Software"></a>
 ### Software
 
 #### ICSE
@@ -106,7 +150,7 @@
 
 #### WWW
 
-
+<a name="2022"></a>
 ## 2022
 
 ### System
@@ -168,3 +212,22 @@
 #### SIGMetrics
 
 #### WWW
+
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+$(document).ready(function () {
+    $('#toc_container > .toc_list > li > ul').hide(); // 第三层目录默认折叠
+    $('#toc_container > .toc_list > li > ul > li > ul').hide(); // 第四层及以下目录全部折叠
+    $('#toc_container > .toc_list > li > ul > li > ul > li').click(function (event) {
+        event.stopPropagation(); // 阻止事件冒泡，避免展开子目录时触发父目录的折叠
+    });
+    $('#toc_container > .toc_list > li > ul > li').click(function () {
+        $(this).children('ul').toggle(); // 点击第二层目录时展开/折叠第三层目录
+    });
+    $('#toc_container > .toc_list > li').click(function () {
+        $(this).children('ul').toggle(); // 点击第一层目录时展开/折叠第二层目录
+    });
+});
+</script>
