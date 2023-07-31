@@ -4,106 +4,121 @@ This is a collection of best paper awards from conferences in some computer scie
 
 Note that some conferences do not have such an award; "Distinguished paper award" and "outstanding paper award" are included but not "best student paper".
 
-# Content
 
 <details> <summary>Conference Content</summary>
 
 - [Best Paper Award](#best-paper-award)
-- [Content](#content)
-- [2023](#2023)
-  - [System](#system)
-    - [OSDI](#osdi)
-    - [SOSP](#sosp)
-    - [ATC](#atc)
-    - [FAST](#fast)
-    - [HPCA](#hpca)
-    - [MICRO](#micro)
-    - [SC](#sc)
-    - [EuroSys](#eurosys)
-    - [Asplos](#asplos)
-    - [SoCC](#socc)
-  - [Software](#software)
-    - [ICSE](#icse)
-    - [FSE](#fse)
-    - [ASE](#ase)
-    - [ISSTA](#issta)
-    - [PLDI](#pldi)
-  - [Network](#network)
-    - [NSDI](#nsdi)
-    - [Sigcom](#sigcom)
-    - [INFOCOM](#infocom)
-  - [Database](#database)
-    - [VLDB](#vldb)
-    - [PODS](#pods)
-    - [Sigmod](#sigmod)
-  - [Data Mining](#data-mining)
-    - [KDD](#kdd)
-    - [CIKM](#cikm)
-    - [SIGMetrics](#sigmetrics)
-    - [WWW](#www)
+  - [2023](#2023)
+    - [System](#system)
+    - [Software](#software)
+    - [Network](#network)
+    - [Data Mining and Database](#data-mining-and-database)
+  - [2022](#2022)
+    - [System](#system-1)
+    - [Software](#software-1)
+    - [Network](#network-1)
+    - [Data Mining and Database](#data-mining-and-database-1)
 </details>
 
 <br>  
 
-# 2023
+## 2023
 
-## System
+###  System
 
-### OSDI
-
-### SOSP
-
-### ATC
-
-### FAST
-
-### HPCA
-
-### MICRO
-
-### SC
-
-### EuroSys
-
-### Asplos
-
-### SoCC
+| Conference | Year  | Paper                                                         |    Org     |               Link               |
+| :--------: | :---: | ------------------------------------------------------------- | :--------: | :------------------------------: |
+|    OSDI    | 2023  | Triangulating Python Performance Issues with SCALENE          | University | [[paper]]() [[code]]() [[ppt]]() |
+|    OSDI    | 2023  | Ensō: A Streaming Interface for NIC-Application Communication | University | [[paper]]() [[code]]() [[ppt]]() |
+|    SOSP    | 2023  |                                                               | University | [[paper]]() [[code]]() [[ppt]]() |
+|    ATC     | 2023  |                                                               | University | [[paper]]() [[code]]() [[ppt]]() |
+|    FAST    | 2023  |                                                               | University | [[paper]]() [[code]]() [[ppt]]() |
+|    HPCA    | 2023  |                                                               | University | [[paper]]() [[code]]() [[ppt]]() |
+|   MICRO    | 2023  |                                                               | University | [[paper]]() [[code]]() [[ppt]]() |
+|     SC     | 2023  |                                                               | University | [[paper]]() [[code]]() [[ppt]]() |
+|  EuroSys   | 2023  |                                                               | University | [[paper]]() [[code]]() [[ppt]]() |
+|   Asplos   | 2023  |                                                               | University | [[paper]]() [[code]]() [[ppt]]() |
+|    SoCC    | 2023  |                                                               | University | [[paper]]() [[code]]() [[ppt]]() |
 
 
-## Software
+### Software
 
-### ICSE
+| Conference | Year  | Paper |    Org     |               Link               |
+| :--------: | :---: | ----- | :--------: | :------------------------------: |
+|    ICSE    | 2023  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|    FSE     | 2023  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|    ASE     | 2023  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|   ISSTA    | 2023  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|    PLDI    | 2023  |       | University | [[paper]]() [[code]]() [[ppt]]() |
 
-### FSE
+### Network
 
-### ASE
+| Conference | Year  | Paper |    Org     |               Link               |
+| :--------: | :---: | ----- | :--------: | :------------------------------: |
+|    NSDI    | 2023  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|   SIGCOM   | 2023  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|  INFOCOM   | 2023  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|   CONEXT   | 2023  |       | University | [[paper]]() [[code]]() [[ppt]]() |
 
-### ISSTA
+### Data Mining and Database
 
-### PLDI
+| Conference | Year  | Paper |    Org     |               Link               |
+| :--------: | :---: | ----- | :--------: | :------------------------------: |
+|    VLDB    | 2023  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|   SIGMOD   | 2023  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|    PODS    | 2023  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|    KDD     | 2023  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|    CIKM    | 2023  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+| SIGMetrics | 2023  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|    WWW     | 2023  |       | University | [[paper]]() [[code]]() [[ppt]]() |
 
-## Network
 
-### NSDI
+## 2022
 
-### Sigcom
+###  System
 
-### INFOCOM
+| Conference | Year  | Paper                                                         |    Org     |               Link               |
+| :--------: | :---: | ------------------------------------------------------------- | :--------: | :------------------------------: |
+|    OSDI    | 2022  | Triangulating Python Performance Issues with SCALENE          | University | [[paper]]() [[code]]() [[ppt]]() |
+|    OSDI    | 2022  | Ensō: A Streaming Interface for NIC-Application Communication | University | [[paper]]() [[code]]() [[ppt]]() |
+|    SOSP    | 2022  |                                                               | University | [[paper]]() [[code]]() [[ppt]]() |
+|    ATC     | 2022  |                                                               | University | [[paper]]() [[code]]() [[ppt]]() |
+|    FAST    | 2022  |                                                               | University | [[paper]]() [[code]]() [[ppt]]() |
+|    HPCA    | 2022  |                                                               | University | [[paper]]() [[code]]() [[ppt]]() |
+|   MICRO    | 2022  |                                                               | University | [[paper]]() [[code]]() [[ppt]]() |
+|     SC     | 2022  |                                                               | University | [[paper]]() [[code]]() [[ppt]]() |
+|  EuroSys   | 2022  |                                                               | University | [[paper]]() [[code]]() [[ppt]]() |
+|   Asplos   | 2022  |                                                               | University | [[paper]]() [[code]]() [[ppt]]() |
+|    SoCC    | 2022  |                                                               | University | [[paper]]() [[code]]() [[ppt]]() |
 
-## Database
 
-### VLDB
+### Software
 
-### PODS
+| Conference | Year  | Paper |    Org     |               Link               |
+| :--------: | :---: | ----- | :--------: | :------------------------------: |
+|    ICSE    | 2022  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|    FSE     | 2022  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|    ASE     | 2022  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|   ISSTA    | 2022  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|    PLDI    | 2022  |       | University | [[paper]]() [[code]]() [[ppt]]() |
 
-### Sigmod
+### Network
 
-## Data Mining
+| Conference | Year  | Paper |    Org     |               Link               |
+| :--------: | :---: | ----- | :--------: | :------------------------------: |
+|    NSDI    | 2022  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|   SIGCOM   | 2022  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|  INFOCOM   | 2022  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|   CONEXT   | 2022  |       | University | [[paper]]() [[code]]() [[ppt]]() |
 
-### KDD
+### Data Mining and Database
 
-### CIKM
-
-### SIGMetrics
-
-### WWW
+| Conference | Year  | Paper |    Org     |               Link               |
+| :--------: | :---: | ----- | :--------: | :------------------------------: |
+|    VLDB    | 2022  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|   SIGMOD   | 2022  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|    PODS    | 2022  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|    KDD     | 2022  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|    CIKM    | 2022  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+| SIGMetrics | 2022  |       | University | [[paper]]() [[code]]() [[ppt]]() |
+|    WWW     | 2022  |       | University | [[paper]]() [[code]]() [[ppt]]() |
