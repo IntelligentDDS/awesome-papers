@@ -2,6 +2,7 @@
 Awesome-papers is a collection of awesome papers about cloud computing including resource management, serverless, microservice,  observerbility and so on.
 
 # Catalogue
+- [Best Paper Award](./Best_paper_award/README.md)
 - [Anomaly Detection](./Anomaly_detection/README.md)
 - [Fault Tolerance](./Fault_tolerance/README.md)
 - [Config Optimization](./Config_optimization/README.md)
