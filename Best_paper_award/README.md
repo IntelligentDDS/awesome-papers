@@ -1,5 +1,17 @@
 # Best Paper Award
 
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+$(document).ready(function () {
+    // 隐藏所有第二层及以下子目录
+    $('ul ul').hide();
+    // 点击第一层目录时展开/折叠
+    $('ul > li > details').click(function () {
+        $(this).siblings('details').removeAttr('open');
+    });
+});
+</script>
+
 **Content**
 - [Best Paper Award](#best-paper-award)
   - [2023](#2023)
@@ -215,19 +227,3 @@
 
 
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script>
-$(document).ready(function () {
-    $('#toc_container > .toc_list > li > ul').hide(); // 第三层目录默认折叠
-    $('#toc_container > .toc_list > li > ul > li > ul').hide(); // 第四层及以下目录全部折叠
-    $('#toc_container > .toc_list > li > ul > li > ul > li').click(function (event) {
-        event.stopPropagation(); // 阻止事件冒泡，避免展开子目录时触发父目录的折叠
-    });
-    $('#toc_container > .toc_list > li > ul > li').click(function () {
-        $(this).children('ul').toggle(); // 点击第二层目录时展开/折叠第三层目录
-    });
-    $('#toc_container > .toc_list > li').click(function () {
-        $(this).children('ul').toggle(); // 点击第一层目录时展开/折叠第二层目录
-    });
-});
-</script>
