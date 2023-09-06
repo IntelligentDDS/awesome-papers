@@ -73,7 +73,7 @@
 
 ## Metric, Log and Trace
 - 23_FSE_Nezha: Nezha: Interpretable Fine-Grained Root Causes Analysis for
-Microservices on Multi-Modal Observability Data [[paper]]() [[code]](https://github.com/IntelligentDDS/Nezha)
+Microservices on Multi-Modal Observability Data [[paper]](https://yuxiaoba.github.io/publication/nezha23/nezha23.pdf) [[code]](https://github.com/IntelligentDDS/Nezha)
 - 23_ICSE_Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data [[paper]](https://arxiv.org/pdf/2302.05092.pdf)
 - 22_ICCBR_MicroCBR: Case-Based Reasoning on Spatio-temporal Fault Knowledge Graph for Microservices Troubleshooting [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-14923-8_15) [[code]](https://github.com/Fengrui-Liu/MicroCBR)
 - 22_TSE_TrinityRCL: Multi-Granular and Code-Level Root Cause Localization Using Multiple Types of Telemetry Data in Microservice Systems [[paper]](https://ieeexplore.ieee.org/document/10034937/)
