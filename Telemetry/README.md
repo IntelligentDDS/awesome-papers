@@ -33,11 +33,15 @@
 
 
 ## Trace
+- 23_Sigcom_Network-Centric Distributed Tracing with DeepFlow: Troubleshooting Your Microservices in Zero Code [[paper]](https://dl.acm.org/doi/10.1145/3603269.3604823) [[ppt]](http://yunshan-guangzhou.oss-cn-beijing.aliyuncs.com/yunshan-ticket/pdf/6120a52db4787b561ce7c8bb879741de_20230913090349.pdf) [[code]](https://github.com/deepflowio/deepflow)
+- 23_Sigcom_Fathom: Understanding Datacenter Application Network Performance [[paper]](https://research.google/pubs/pub52634/)
+- 23_Eurosys_Foxhound: Server-Grade Observability for Network-Augmented Applications [[paper]](https://dl.acm.org/doi/pdf/10.1145/3552326.3567502)
 - 23_NSDI_The Benefit of Hindsight: Tracing Edge-Cases in Distributed Systems [[paper]](https://arxiv.org/pdf/2202.05769.pdf)
 - 22_NSDI_Hubble: Performance Debugging with In-Production, Just-In-Time Method Tracing on Android [[paper]](https://www.usenix.org/conference/osdi22/presentation/luo)
 - 22_AFETM: Adaptive Function Execution Trace Monitoring for Fault Diagnosis [[paper]](https://arxiv.org/pdf/2210.07486.pdf)
 - 21_ICWS_Sieve: Attention-based Sampling of End-to-End Trace Data in Distributed Microservice System [[paper]](https://ieeexplore.ieee.org/abstract/document/9590295/)
 - 21_SoCC_3MileBeach: A Tracer with Teeth [[paper]](https://aleckdarcy.github.io/3MileBeach_A_Tracer_with_Teeth.pdf)
+- 19_Cloud_JCallGraph: Tracing Microservices in Very Large Scale Container Cloud Platforms [[paper]](https://dl.acm.org/doi/abs/10.1007/978-3-030-23502-4_20)
 - 16_SoCC_Principled workﬂow-centric tracing of distributed systems [[paper]](https://dl.acm.org/doi/10.1145/2987550.2987568)
 - 12_TCS_Fay: Extensible Distributed Tracing from Kernels to Clusters [[paper]](https://dl.acm.org/doi/10.1145/2382553.2382555)
 - 10_Google_Dapper, a Large-Scale Distributed Systems Tracing Infrastructure [[paper]](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/papers/dapper-2010-1.pdf)

@@ -99,3 +99,4 @@ Microservices on Multi-Modal Observability Data [[paper]](https://yuxiaoba.githu
 ## Change
 
 18_OSDI_Orca: Differential Bug Localization in Large-Scale Services [[paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/10/Orca-OSDI.pdf)
+07_SOSP_Staged Deployment in Mirage, an Integrated Software Upgrade Testing and Distribution System [paper](https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4C250033CD3758538BD1C564F782F416?doi=10.1.1.94.6266&rep=rep1&type=pdf)
