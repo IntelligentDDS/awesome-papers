@@ -38,6 +38,7 @@
 - 23_Eurosys_Foxhound: Server-Grade Observability for Network-Augmented Applications [[paper]](https://dl.acm.org/doi/pdf/10.1145/3552326.3567502)
 - 23_NSDI_The Benefit of Hindsight: Tracing Edge-Cases in Distributed Systems [[paper]](https://arxiv.org/pdf/2202.05769.pdf)
 - 22_NSDI_Hubble: Performance Debugging with In-Production, Just-In-Time Method Tracing on Android [[paper]](https://www.usenix.org/conference/osdi22/presentation/luo)
+- 22_OSDI_Upgradvisor: Early Adopting Dependency Updates Using Hybrid Program Analysis and Hardware Tracing [[paper]](https://www.usenix.org/system/files/osdi22-david.pdf) [[ppt]](https://www.usenix.org/system/files/osdi22_slides_david.pdf) [[code]](https://upgradvisor.github.io/)
 - 22_AFETM: Adaptive Function Execution Trace Monitoring for Fault Diagnosis [[paper]](https://arxiv.org/pdf/2210.07486.pdf)
 - 21_ICWS_Sieve: Attention-based Sampling of End-to-End Trace Data in Distributed Microservice System [[paper]](https://ieeexplore.ieee.org/abstract/document/9590295/)
 - 21_SoCC_3MileBeach: A Tracer with Teeth [[paper]](https://aleckdarcy.github.io/3MileBeach_A_Tracer_with_Teeth.pdf)
