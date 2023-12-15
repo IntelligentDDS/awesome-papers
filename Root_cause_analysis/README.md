@@ -15,6 +15,7 @@
 
 
 ## Metric
+- 23_ASE_P ERF CE: Performance Debugging on Databases with Chaos Engineering-Enhanced Causality Analysis [[paper]](https://arxiv.org/pdf/2207.08369.pdf) [[code]](https://anonymous.4open.science/r/PerfCE-85E0/README.md)
 - 23_WWW_CMDiagnostor: An Ambiguity-Aware Root Cause Localization Approach Based on Call Metric Data [[paper]](https://netman.aiops.org/wp-content/uploads/2023/02/CMDiagnostor_www_2023.pdf) [[code]](https://github.com/NetManAIOps/CMDiagnostor)
 - 23_WWW_CausIL: Causal Graph for Instance Level Microservice Data [[paper]](https://arxiv.org/pdf/2303.00554.pdf) [[code]](https://github.com/sarthak-chakraborty/CausIL)
 - 22_DSN_RAPMiner: A Generic Anomaly Localization Mechanism for CDN System with Multi-dimensional KPIs [[paper]](https://ieeexplore.ieee.org/document/9833589/) [[code]](https://github.com/liuchangsophie/RAPMiner)
@@ -44,7 +45,7 @@
   
 
 ## Trace
-
+- 23_FSE_TraceDiag: Adaptive, Interpretable, and Efficient Root Cause Analysis on Large-Scale Microservice Systems [[paper]](https://arxiv.org/pdf/2310.18740.pdf)
 - 23_DATE_ImpactTracer: Root Cause Localization in Microservices Based on Fault Propagation Modeling [[paper]](https://ieeexplore.ieee.org/document/10137078)
 - 22_Cloud_Localizing and Explaining Faults in Microservices Using Distributed Tracing [[paper]](https://ieeexplore.ieee.org/document/9860589/)
 - 22_ICSOC_MicroSketch: Lightweight and Adaptive Sketch based Performance Issue Detection and Localization in Microservice Systems [[paper]](https://yuxiaoba.github.io/publication/microsketch22/microsketch22.pdf)
@@ -72,6 +73,7 @@
 - 21_ASPLOS_Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices [[paper]](https://www.csl.cornell.edu/~delimitrou/papers/2021.asplos.sage.pdf)
 
 ## Metric, Log and Trace
+- 23_TSC_Robust Failure Diagnosis of Microservice System through Multimodal Data [[paper]](https://arxiv.org/pdf/2302.10512.pdf) [[data]](https://github.com/CloudWise-OpenSource/GAIA-DataSet)
 - 23_FSE_Nezha: Nezha: Interpretable Fine-Grained Root Causes Analysis for
 Microservices on Multi-Modal Observability Data [[paper]](https://yuxiaoba.github.io/publication/nezha23/nezha23.pdf) [[code]](https://github.com/IntelligentDDS/Nezha)
 - 23_ICSE_Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data [[paper]](https://arxiv.org/pdf/2302.05092.pdf)
@@ -79,7 +81,7 @@ Microservices on Multi-Modal Observability Data [[paper]](https://yuxiaoba.githu
 - 22_TSE_TrinityRCL: Multi-Granular and Code-Level Root Cause Localization Using Multiple Types of Telemetry Data in Microservice Systems [[paper]](https://ieeexplore.ieee.org/document/10034937/)
 - 22_ICSE_PerfSig: Extracting Performance Bug Signatures via Multi-modality Causal Analysis [[paper]](https://jhe16.github.io/files/ICSE22.pdf) [[code]](https://github.com/jhe16/PerfSig)
 - 21_IPDSP_Diagnosing Performance Issues in Microservices with Heterogeneous Data Source [[paper]](http://www.cloud-conf.net/ispa2021/proc/pdfs/ISPA-BDCloud-SocialCom-SustainCom2021-3mkuIWCJVSdKJpBYM7KEKW/264600a493/264600a493.pdf)
-- 20_ESOCC_Multi-source Distributed System Data for AI-Powered Analytics [[paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-44769-4_13.pdf) [[[data](https://zenodo.org/record/3549604#.YkJeszNBy3I) [[code]](https://github.com/snedelkoski/multi-source-observability-dataset)
+- 20_ESOCC_Multi-source Distributed System Data for AI-Powered Analytics [[paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-44769-4_13.pdf) [[data]](https://zenodo.org/record/3549604#.YkJeszNBy3I) [[code]](https://github.com/snedelkoski/multi-source-observability-dataset)
 
 ## Network
 

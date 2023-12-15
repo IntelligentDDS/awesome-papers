@@ -22,8 +22,8 @@
 - 20_ICSE_An Empirical Study on Program Failures of Deep Learning Jobs [[paper]](https://wencongxiao.github.io/res/icse20/icse20-main-199.pdf)
 
 ## ML Anomaly Detection
-
 23_KDD_AlerTiger: Deep Learning for AI Model Health Monitoring at LinkedIn [[paper]](https://arxiv.org/abs/2306.01977) [[code]](https://github.com/linkedin/AlerTiger/blob/main/alertiger/src/features.py)
+18_DSN_Machine Learning Models for GPU Error Prediction in a Large Scale HPC System [[paper]](https://ieeexplore.ieee.org/document/8416474)
 
 ## ML Fault Tolerance
 
