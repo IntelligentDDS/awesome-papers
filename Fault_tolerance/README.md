@@ -2,16 +2,44 @@
 
 **Content**
 - [Fault Tolerance](#fault-tolerance)
-  - [Chaos engineering](#chaos-engineering)
-    - [Chaos in SE system](#chaos-in-se-system)
-    - [Chaos in AI system](#chaos-in-ai-system)
-  - [Fault Recovery](#fault-recovery)
-  - [Failure Analysis](#failure-analysis)
+  - [Cloud System](#cloud-system)
+    - [Failure Analysis](#failure-analysis)
+    - [Fault Injection](#fault-injection)
+    - [Fault Recovery](#fault-recovery)
+  - [AI System](#ai-system)
+    - [Failure Analysis](#failure-analysis-1)
+      - [Mixed layer](#mixed-layer)
+      - [Service](#service)
+      - [Platform](#platform)
+      - [Framework](#framework)
+      - [Tooolkits](#tooolkits)
+      - [Infrastructure](#infrastructure)
+    - [Fault Injection](#fault-injection-1)
+      - [Service](#service-1)
+      - [Platform](#platform-1)
+      - [Framework](#framework-1)
+      - [Tooolkits](#tooolkits-1)
+      - [Infrastructure](#infrastructure-1)
 
 
-## Chaos engineering
+## Cloud System
 
-### Chaos in SE system
+### Failure Analysis
+
+- 23_Eurosys_Fail through the Cracks: Cross-System Interaction Failures in Modern Cloud Systems [[paper]](https://tianyin.github.io/pub/csi-failures.pdf) [[code]](https://github.com/xlab-uiuc/csi-ae)
+- 22_ICSE-SEIP_An Empirical Study on Change-induced Incidents of Online Service Systems [[paper]](https://ieeexplore.ieee.org/document/10172709)
+- 22_SoCC_How to Fight Production Incidents? An Empirical Study on a Large-scale Cloud Service [[paper]](https://dl.acm.org/doi/10.1145/3542929.3563482) Awarded Best Paper! 👍
+- 22_ISSRE_Going through the Life Cycle of Faults in Clouds:Guidelines on Fault Handling [[paper]](https://yuxiaoba.github.io/publication/incident22/incident22.pdf) [[code]](https://github.com/IntelligentDDS/Post-mortems-Analysis)
+- 21_SOSP_Understanding and Detecting Software Upgrade Failures in Distributed Systems [[paper]](https://www.cs.purdue.edu/homes/yonglezh/pub/upgrade-sosp21.pdf)
+- 21_DSN_Examining Failures and Repairs on Supercomputers with Multi-GPU Compute Nodes [[paper]](https://ieeexplore.ieee.org/document/9505081) [[data]](http://doi.org/10.5281/zenodo.4606221)
+- 20_FSE_Towards Intelligent Incident Management: Why We Need It and How We Make It [[paer]](https://dl.acm.org/doi/pdf/10.1145/3368089.3417055)
+- 19_ICSE-SEIP_An Empirical Investigation of Incident Triage for Online Service Systems [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8804464)
+- 18_OSDI_An Analysis of Network-Partitioning Failures in Cloud Systems [[paper]](https://www.usenix.org/system/files/osdi18-alquraan.pdf)
+- 17_TPDS_Failure Diagnosis for Distributed Systems Using Targeted Fault Injection [[paper]](https://ieeexplore.ieee.org/document/7484300)
+- 16_SIGCOM_Taking the Blame Game out of Data Centers Operations with NetPoirot [[paper]](https://dl.acm.org/doi/10.1145/2934872.2934884)
+
+### Fault Injection
+
 - 23_SOSP_Acto: Automatic End-to-End Testing for Operation Correctness of Cloud System Management [[paper]](https://www.cs.cornell.edu/~legunsen/pubs/GuETAlActoSOSP23.pdf) [[code]](https://github.com/xlab-uiuc/acto)
 - 23_CCS_Phoenix: Detect and Locate Resilience Issues in Blockchain via Context-Sensitive Chaos [[paper]](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/CCS23.pdf)
 - 23_Failure Identification Using Model-Implemented Fault Injection with Domain Knowledge-Guided Reinforcement Learning [[paper]](https://www.mdpi.com/1424-8220/23/4/2166)
@@ -36,34 +64,73 @@
 - 16_Survey_Assessing Dependability with Software Fault Injection: A Survey [[paper]](https://dl.acm.org/doi/10.1145/2841425)
 - 15_SIGMOD_Lineage-driven Fault Injection [[paper]](https://dl.acm.org/doi/10.1145/2723372.2723711)
 
-
-### Chaos in AI system
-- 22_FSE_Understanding Performance Problems in Deep Learning Systems [[paper]](https://arxiv.org/abs/2112.01771) [[code]](https://zenodo.org/record/7060209)
-- 22_SANER_How Do Injected Bugs Affect Deep Learning? [[paper]](https://www.cs.sjtu.edu.cn/~zhonghao/paper/saner-mutation.pdf) [[code]](https://github.com/bugdataupload/deeplearningbugs)
-- 22_Toward Understanding Deep Learning Framework Bugs [[paper]](https://arxiv.org/pdf/2203.04026.pdf)
-- 20_ICSE_Taxonomy of Real Faults in Deep Learning Systems [[paper]](https://arxiv.org/pdf/1910.11015.pdf)
-- 15_Cluster_Fast Fault Injection and Sensitivity Analysis for Collective Communications [[paper]](https://ieeexplore.ieee.org/document/7307578)
-
-## Fault Recovery
-
+### Fault Recovery
+-24_Eurosys_Atlas: Hybrid Cloud Migration Advisor for Interactive Microservices [[paper]](https://arxiv.org/pdf/2311.06962.pdf)
 - 22_KDD_NENYA: Cascade Reinforcement Learning for Cost-Aware Failure Mitigation at Microsoft 365 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539127)
 - 22_SoCC_Method Overloading the Circuit [[paper]](https://dl.acm.org/doi/abs/10.1145/3542929.3563466) [[video]](https://www.youtube.com/watch?v=A3FWuvDEZJI)
 - 21_DSN_FIRestarter: Practical Software Crash Recovery with Targeted Library-level Fault Injection [[paper]](https://download.vusec.net/papers/firestarter_dsn21.pdf) [[code]](https://github.com/vusec/firestarter)
 
 
-## Failure Analysis
 
-- 23_Eurosys_Fail through the Cracks: Cross-System Interaction Failures in Modern Cloud Systems [[paper]](https://tianyin.github.io/pub/csi-failures.pdf) [[code]](https://github.com/xlab-uiuc/csi-ae)
-- 22_ICSE-SEIP_An Empirical Study on Change-induced Incidents of Online Service Systems [[paper]](https://ieeexplore.ieee.org/document/10172709)
-- 22_SoCC_How to Fight Production Incidents? An Empirical Study on a Large-scale Cloud Service [[paper]](https://dl.acm.org/doi/10.1145/3542929.3563482) Awarded Best Paper! 👍
-- 22_ISSRE_Going through the Life Cycle of Faults in Clouds:Guidelines on Fault Handling [[paper]](https://yuxiaoba.github.io/publication/incident22/incident22.pdf) [[code]](https://github.com/IntelligentDDS/Post-mortems-Analysis)
-- 21_SOSP_Understanding and Detecting Software Upgrade Failures in Distributed Systems [[paper]](https://www.cs.purdue.edu/homes/yonglezh/pub/upgrade-sosp21.pdf)
-- 21_DSN_Examining Failures and Repairs on Supercomputers with Multi-GPU Compute Nodes [[paper]](https://ieeexplore.ieee.org/document/9505081) [[data]](http://doi.org/10.5281/zenodo.4606221)
-- 20_FSE_Towards Intelligent Incident Management: Why We Need It and How We Make It [[paer]](https://dl.acm.org/doi/pdf/10.1145/3368089.3417055)
-- 19_ICSE-SEIP_An Empirical Investigation of Incident Triage for Online Service Systems [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8804464)
-- 18_OSDI_An Analysis of Network-Partitioning Failures in Cloud Systems [[paper]](https://www.usenix.org/system/files/osdi18-alquraan.pdf)
-- 17_TPDS_Failure Diagnosis for Distributed Systems Using Targeted Fault Injection [[paper]](https://ieeexplore.ieee.org/document/7484300)
-- 16_SIGCOM_Taking the Blame Game out of Data Centers Operations with NetPoirot [[paper]](https://dl.acm.org/doi/10.1145/2934872.2934884)
+
+## AI System
+
+### Failure Analysis
+
+#### Mixed layer
+- 23_TOSEM_Rise of Distributed Deep Learning Training in the Big Model Era: From a Software Engineering Perspective [[paper]](https://dl.acm.org/doi/10.1145/3597204)
+- 22_FSE_Understanding Performance Problems in Deep Learning Systems [[paper]](https://arxiv.org/abs/2112.01771) [[code]](https://zenodo.org/record/7060209)
+- 22_SANER_How Do Injected Bugs Affect Deep Learning? [[paper]](https://www.cs.sjtu.edu.cn/~zhonghao/paper/saner-mutation.pdf) [[code]](https://github.com/bugdataupload/deeplearningbugs)
+- 20_ICSE_Taxonomy of Real Faults in Deep Learning Systems [[paper]](https://arxiv.org/pdf/1910.11015.pdf)
+- 20_ICSE_An Empirical Study on Program Failures of Deep Learning Jobs [[paper]](https://dl.acm.org/doi/10.1145/3377811.3380362)
+- 19_Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads [[paper]](https://www.usenix.org/conference/atc19/presentation/jeon)
+
+#### Service 
+
+
+
+#### Platform
+
+
+#### Framework
+
+- 23_TOSEM_Toward Understanding Deep Learning Framework Bugs [[paper]](https://arxiv.org/pdf/2203.04026.pdf)
+
+#### Tooolkits
+
+
+#### Infrastructure
+
+
+### Fault Injection
+
+#### Service 
+
+- 24_ICSE_Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection [[paper]](https://arxiv.org/abs/2302.12173)
+
+#### Platform
+
+
+#### Framework
+
+
+#### Tooolkits
+
+- 15_Cluster_Fast Fault Injection and Sensitivity Analysis for Collective Communications [[paper]](https://ieeexplore.ieee.org/document/7307578)
+
+
+
+#### Infrastructure
+
+
+
+
+
+
+
+
+
+
 
 
 
