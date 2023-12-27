@@ -10,15 +10,17 @@
     - [Failure Analysis](#failure-analysis-1)
       - [Mixed layer](#mixed-layer)
       - [Service](#service)
-      - [Platform](#platform)
+      - [Model](#model)
       - [Framework](#framework)
       - [Tooolkits](#tooolkits)
+      - [Platform](#platform)
       - [Infrastructure](#infrastructure)
     - [Fault Injection](#fault-injection-1)
       - [Service](#service-1)
-      - [Platform](#platform-1)
+      - [Model](#model-1)
       - [Framework](#framework-1)
       - [Tooolkits](#tooolkits-1)
+      - [Platform](#platform-1)
       - [Infrastructure](#infrastructure-1)
 
 
@@ -78,37 +80,51 @@
 ### Failure Analysis
 
 #### Mixed layer
+
+- 23_ICSE-SEIP_An Empirical Study on Quality Issues of Deep Learning Platform [[paper]](https://arxiv.org/abs/2206.14322)
 - 23_TOSEM_Rise of Distributed Deep Learning Training in the Big Model Era: From a Software Engineering Perspective [[paper]](https://dl.acm.org/doi/10.1145/3597204)
 - 22_FSE_Understanding Performance Problems in Deep Learning Systems [[paper]](https://arxiv.org/abs/2112.01771) [[code]](https://zenodo.org/record/7060209)
-- 22_SANER_How Do Injected Bugs Affect Deep Learning? [[paper]](https://www.cs.sjtu.edu.cn/~zhonghao/paper/saner-mutation.pdf) [[code]](https://github.com/bugdataupload/deeplearningbugs)
-- 20_ICSE_Taxonomy of Real Faults in Deep Learning Systems [[paper]](https://arxiv.org/pdf/1910.11015.pdf)
 - 20_ICSE_An Empirical Study on Program Failures of Deep Learning Jobs [[paper]](https://dl.acm.org/doi/10.1145/3377811.3380362)
 - 19_Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads [[paper]](https://www.usenix.org/conference/atc19/presentation/jeon)
 
 #### Service 
 
+#### Model 
 
+
+#### Framework
+- 24_ESE_Silent Bugs in Deep Learning Frameworks: An Empirical Study of Keras and TensorFlow [[paper]](https://arxiv.org/abs/2112.13314) [[code]](https://github.com/amin-nikanjam/SilentBugsInTensorFlowKeras)
+- 23_ICPC_Understanding Bugs in Multi-Language Deep Learning Frameworks [[paper]](https://arxiv.org/abs/2303.02695)
+- 23_TOSEM_Toward Understanding Deep Learning Framework Bugs [[paper]](https://arxiv.org/pdf/2203.04026.pdf)
+- 22_ICSME_An Empirical Study on Performance Bugs in Deep Learning Frameworks [[paper]](https://petertsehsun.github.io/papers/performance_issues_study.pdf)
+- 20_ICSE_Taxonomy of Real Faults in Deep Learning Systems [[paper]](https://arxiv.org/pdf/1910.11015.pdf)
+- 19_FSE_A Comprehensive Study on Deep Learning Bug Characteristics [[paper]](https://arxiv.org/abs/1906.01388)
+- 18_FSE_An Empirical Study on TensorFlow Program Bugs [[paper]](https://dl.acm.org/doi/10.1145/3213846.3213866)
+
+#### Tooolkits
 
 #### Platform
 
 
-#### Framework
-
-- 23_TOSEM_Toward Understanding Deep Learning Framework Bugs [[paper]](https://arxiv.org/pdf/2203.04026.pdf)
-
-#### Tooolkits
-
-
 #### Infrastructure
+
+- 21_DSN_Examining Failures and Repairs on Supercomputers with Multi-GPU Compute Nodes [[paper]](https://ieeexplore.ieee.org/document/9505081)
+- 20_SC_GPU Lifetimes on Titan Supercomputer: Survival Analysis and Reliability [[paper]](https://ieeexplore.ieee.org/document/9355319)
+- 17_SC_Failures in Large Scale Systems: Long-Term Measurement, Analysis, and Implications [[paper]](https://dl.acm.org/doi/pdf/10.1145/3126908.3126937)
+- 15_SC_Reliability Lessons Learned From GPU Experience With The Titan Supercomputer at Oak Ridge Leadership Computing Facility [[paper]](https://ieeexplore.ieee.org/document/7832812)
 
 
 ### Fault Injection
+
+- 22_SANER_How Do Injected Bugs Affect Deep Learning? [[paper]](https://www.cs.sjtu.edu.cn/~zhonghao/paper/saner-mutation.pdf) [[code]](https://github.com/bugdataupload/deeplearningbugs)
 
 #### Service 
 
 - 24_ICSE_Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection [[paper]](https://arxiv.org/abs/2302.12173)
 
-#### Platform
+
+#### Model 
+
 
 
 #### Framework
@@ -118,13 +134,12 @@
 
 - 15_Cluster_Fast Fault Injection and Sensitivity Analysis for Collective Communications [[paper]](https://ieeexplore.ieee.org/document/7307578)
 
-
+#### Platform
 
 #### Infrastructure
 
 
-
-
+- Lightning: Leveraging DVFS-induced Transient Fault Injection to Attack Deep Learning Accelerator of GPUs [[paper]](https://dl.acm.org/doi/10.1145/3617893)
 
 
 
