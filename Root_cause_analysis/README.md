@@ -106,3 +106,8 @@ Microservices on Multi-Modal Observability Data [[paper]](https://yuxiaoba.githu
 
 
 ## Profile
+
+22_NSDI_How to diagnose nanosecond network latencies in rich end-host stacks [[paper]](https://www.usenix.org/conference/nsdi22/presentation/haecki)
+18_HPDC_Profiling Distributed Systems in Lightweight Virtualized Environments with Logs and Resource Metrics [[paper]](https://dl.acm.org/doi/pdf/10.1145/3208040.3208044)
+16_OSDI_Non-Intrusive Performance Profiling for Entire Software Stacks Based on the Flow Reconstruction Principle [[paper]](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/zhao)
+06_OSDI_Operating System Proﬁling via Latency Analysis [[paper]](https://dl.acm.org/doi/abs/10.5555/1298455.1298465)
