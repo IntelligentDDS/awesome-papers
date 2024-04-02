@@ -2,8 +2,13 @@
 
 ## LLM
 
+24_Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve [[paper]](https://arxiv.org/pdf/2403.02310.pdf)
+24_Fast Distributed Inference Serving for Large Language Models [[paper]](https://arxiv.org/pdf/2305.05920.pdf)
 24_OSDI_ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models [[paper]](https://arxiv.org/abs/2401.14351) [[code]](https://github.com/ServerlessLLM/ServerlessLLM)
-
+24_Splitwise: Efficient Generative LLM Inference Using Phase Splitting [[paper]](https://arxiv.org/pdf/2311.18677.pdf)
+23_ICML_FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU [[paper]](https://dl.acm.org/doi/10.5555/3618408.3619696) [[code]](https://github.com/FMInference/FlexGen)
+23_SOSP_Efficient Memory Management for Large Language Model Serving with PagedAttention [[paper]](https://arxiv.org/abs/2309.06180) [[code]](https://github.com/vllm-project/vllm)
+22_NSDI_Orca: A Distributed Serving System for Transformer-Based Generative Models [[paper]](https://www.usenix.org/conference/osdi22/presentation/yu)
 
 ## Resource Allocation
 - 22_SoCC_SIMPPO: A Scalable and Incremental Online Learning Framework for Serverless Resource Management [[paper]](https://haoran-qiu.com/pdf/socc22.pdf)

@@ -27,7 +27,6 @@
 - 22_ICSE_DeepTraLog: Trace-Log Combined Microservice Anomaly Detection through Graph-based Deep Learning [[paper]](https://cspengxin.github.io/publications/icse22-DeepTraLog.pdf) [[code]](https://fudanselab.github.io/DeepTraLog/)
 
 ### Metric
-
 - Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding [[paper]](https://arxiv.org/abs/1802.04431) [[code]](https://github.com/khundman/telemanom)
 
 
@@ -41,6 +40,7 @@
 ## Unsupervised anomaly detection
 
 ### Metric
+24_AAAI_High Significant Fault Detection in Azure Core Workload Insights [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/30312)
 23_KDD_AlerTiger: Deep Learning for AI Model Health Monitoring at LinkedIn [[paper]](https://arxiv.org/abs/2306.01977) [[code]](https://github.com/linkedin/AlerTiger/blob/main/alertiger/src/features.py)
 - 22_ICWS_TS-InvarNet: Anomaly Detection and Localization based on Tempo-spatial KPI Invariants in Distributed Services [[paper]](https://yuxiaoba.github.io/publication/tsinvarnet22/tsInvarNet22.pdf)
 - 21_Sigcomm_A Composition Framework for Change Management [[paper]](https://dl.acm.org/doi/abs/10.1145/3452296.3472901)
