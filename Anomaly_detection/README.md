@@ -33,6 +33,7 @@
 ## Semi-supervised anomaly detection
 ### Metric
 - 22_WWW_A Semi-Supervised VAE Based Active Anomaly Detection Framework in Multivariate Time Series for Online Systems [[paper]](https://dl.acm.org/doi/10.1145/3485447.3511984)
+- 20_SIGMOD_Human-in-the-loop Outlier Detection [[paper]](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod20-outlier.pdf)
 
 ### Log
 - 21_ICSE_Semi-supervised Log-based Anomaly Detection via Probabilistic Label Estimation [[paper]](https://ieeexplore.ieee.org/document/9401970)
@@ -41,6 +42,7 @@
 
 ### Metric
 24_AAAI_High Significant Fault Detection in Azure Core Workload Insights [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/30312)
+23_ICDE_DBCatcher: A Cloud Database Online Anomaly Detection System based on Indicator Correlation [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184680)
 23_KDD_AlerTiger: Deep Learning for AI Model Health Monitoring at LinkedIn [[paper]](https://arxiv.org/abs/2306.01977) [[code]](https://github.com/linkedin/AlerTiger/blob/main/alertiger/src/features.py)
 - 22_ICWS_TS-InvarNet: Anomaly Detection and Localization based on Tempo-spatial KPI Invariants in Distributed Services [[paper]](https://yuxiaoba.github.io/publication/tsinvarnet22/tsInvarNet22.pdf)
 - 21_Sigcomm_A Composition Framework for Change Management [[paper]](https://dl.acm.org/doi/abs/10.1145/3452296.3472901)

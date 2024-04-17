@@ -5,10 +5,10 @@
   - [Performance Acceleration](#performance-acceleration)
   - [Network Diagnose](#network-diagnose)
   - [Sketch](#sketch)
-  - [DDoS Detection](ddos_detection)
-  - [Smart NIC](smart_nic)
-  - [Application](application)
-  - [Routing](routing)
+  - [DDoS Detection](#ddos-detection)
+  - [Smart NIC](#smart-nic)
+  - [Application](#application)
+  - [Routing](#routing)
 
 ## Performance Acceleration
 - 22_NSDI_Tiara: A Scalable and Efﬁcient Hardware Acceleration Architecture for Stateful Layer-4 Load Balancing[[paper]](https://ising.cse.ust.hk/files/tiara_nsdi22.pdf)
@@ -43,6 +43,8 @@
 - 21_EuroP4_Kubernetes Load-balancing and related network functions using P4 [[paper]](https://doi.org/10.1145/3493425.3502768)
 
 ## Routing
-
-- 15_NSDI_Information-Agnostic Flow Scheduling for Commodity Data Centers [[paper]](https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/bai)
+- 23_OSDI_ServiceRouter: Hyperscale and Minimal Cost Service Mesh at Meta [[paper]](https://www.usenix.org/conference/osdi23/presentation/saokar)
+- 21_INFOCOM_NetMARKS: Network Metrics-AwaRe Kubernetes Scheduler Powered by Service Meshs [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9488670) 
 - 21_INFOCOM_DRL-OR: Deep Reinforcement Learning-based Online Routing for Multi-type Service Requirements [[paper]](https://ieeexplore.ieee.org/document/9488736) [[code]](https://github.com/netlab-lcy/DRL-OR/tree/main/drl-or)
+- 15_NSDI_Information-Agnostic Flow Scheduling for Commodity Data Centers [[paper]](https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/bai)
+- 15_NSDI_C3: Cutting Tail Latency in Cloud Data Stores via Adaptive Replica Selection [[paper]](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-suresh.pdf)
