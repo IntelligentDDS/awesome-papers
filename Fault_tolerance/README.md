@@ -147,11 +147,14 @@
 #### Framework
 
 
-#### Tooolkits
+#### Toolkits
 
 - 15_Cluster_Fast Fault Injection and Sensitivity Analysis for Collective Communications [[paper]](https://ieeexplore.ieee.org/document/7307578)
 
 #### Platform
+- 22_STVR_TRANSMUT-Spark: Transformation mutation for Apache Spark [[paper]](https://onlinelibrary.wiley.com/doi/10.1002/stvr.1809)
+- 23_FSE_Co-dependence Aware Fuzzing for Dataflow-Based Big Data Analytics [[paper]](https://dl.acm.org/doi/10.1145/3611643.3616298)
+
 
 #### Infrastructure
 - 17_ISPASS_SASSIFI: An architecture-level fault injection tool for GPU application resilience evaluation [[paper]](https://doi.org/10.1109/ISPASS.2017.7975296)
