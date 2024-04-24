@@ -115,7 +115,19 @@
 - 20_SC_GPU Lifetimes on Titan Supercomputer: Survival Analysis and Reliability [[paper]](https://ieeexplore.ieee.org/document/9355319)
 - 17_SC_Failures in Large Scale Systems: Long-Term Measurement, Analysis, and Implications [[paper]](https://dl.acm.org/doi/pdf/10.1145/3126908.3126937)
 - 15_SC_Reliability Lessons Learned From GPU Experience With The Titan Supercomputer at Oak Ridge Leadership Computing Facility [[paper]](https://ieeexplore.ieee.org/document/7832812)
-
+- 16_HPCA_A large-scale study of soft-errors on GPUs in the field [[paper]](https://ieeexplore.ieee.org/document/7446091)
+- 17_MASCOTS_Characterizing Temperature, Power, and Soft-Error Behaviors in Data Center Systems: Insights, Challenges, and Opportunities [[paper]](https://ieeexplore.ieee.org/document/8107428)
+- 15_HPCA_Understanding GPU errors on large-scale HPC systems and the implications for system design and operation [[paper]](https://ieeexplore.ieee.org/document/7056044)
+- 14_DSN_Lessons Learned from the Analysis of System Failures at Petascale: The Case of Blue Waters [[paper]](https://ieeexplore.ieee.org/document/6903615)
+- 20_ICSE_An empirical study on program failures of deep learning jobs [[paper]](https://dl.acm.org/doi/10.1145/3377811.3380362)
+- 23_SYSTOR_Predicting GPU Failures With High Precision Under Deep Learning Workloads [[paper]](https://dl.acm.org/doi/10.1145/3579370.3594777)
+- 14_LISAT_Reliability and fault tolerance analysis of FPGA platforms [[paper]](https://ieeexplore.ieee.org/document/6845211)
+- 16_J_NET_Field Programmable Gate Array Reliability Analysis Using the Dynamic Flowgraph Methodology [[paper]](https://doi.org/10.1016/j.net.2016.03.004)
+- 10_TII_Component-Based Safety Analysis of FPGAs [[paper]](https://ieeexplore.ieee.org/document/5422708)
+- 21_TVLSI_Reliability Evaluation and Analysis of FPGA-Based Neural Network Acceleration System [[paper]](https://ieeexplore.ieee.org/document/9316989)
+- 24_TNS_Tensor Processing Unit Reliability Dependence on Temperature and Radiation Source [[paper]](https://ieeexplore.ieee.org/document/10415538)
+- 22_RADECS_Sensitivity of Google’s Tensor Processing Units to High-Energy, Mono-Energetic, and Thermal Neutrons [[paper]](https://ieeexplore.ieee.org/document/10412572)
+- 22_DATE_Reliability of Google's Tensor Processing Units for Embedded Applications [[paper]](https://ieeexplore.ieee.org/document/9774600)
 
 ### Fault Injection
 
