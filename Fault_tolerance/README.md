@@ -140,8 +140,22 @@
 #### Platform
 
 #### Infrastructure
-
-
+- 17_ISPASS_SASSIFI: An architecture-level fault injection tool for GPU application resilience evaluation [[paper]](https://doi.org/10.1109/ISPASS.2017.7975296)
+- 14_ISPASS_GPU-Qin: A methodology for evaluating the error resilience of GPGPU applications [[paper]](https://ieeexplore.ieee.org/document/6844486/)
+- 21_DSN_NVBitFI: Dynamic Fault Injection for GPUs[[paper]](https://ieeexplore.ieee.org/document/9505068)
+- 16_SC_Understanding Error Propagation in GPGPU Applications [[paper]](https://ieeexplore.ieee.org/document/7877099)
+- 17_SC_Understanding error propagation in deep learning neural network (DNN) accelerators and applications [[paper]](https://dl.acm.org/doi/10.1145/3126908.3126964)
+- 17_HPCA_RadiationInduced Error Criticality in Modern HPC Parallel Accelerators [[paper]](https://doi.org/10.1109/HPCA.2017.41)
+- 18_SBAC-PAD_On the Resilience of RTL NN Accelerators: Fault Characterization and Mitigation [[paper]](https://ieeexplore.ieee.org/document/8645906)
+- 12_ISCA_A defect-tolerant accelerator for emerging high-performance applications [[paper]](https://ieeexplore.ieee.org/document/6237031)
+- 21_VTS_Combining Architectural Simulation and Software Fault Injection for a Fast and Accurate CNNs Reliability Evaluation on GPUs [[paper]](https://ieeexplore.ieee.org/document/9441044)
+- 02_DFT_Using run-time reconfiguration for fault injection in hardware prototypes [[paper]](https://ieeexplore.ieee.org/document/1173521)
+- 12_DFT_Fast single-FPGA fault injection platform [[paper]](https://ieeexplore.ieee.org/document/6378216)
+- 14_J.MICROEL_A fast, flexible, and easy-to-develop FPGA-based fault injection technique [[paper]](https://doi.org/10.1016/J.MICROREL.2014.01.002)
+- 01_ATS_FPGA-based fault injection for microprocessor systems [[paper]](https://ieeexplore.ieee.org/document/990301)
+- 20_Desgin&Test_Enabling Timing Error Resilience for Low-Power Systolic-Array Based Deep Learning Accelerators [[paper]](https://ieeexplore.ieee.org/document/8868188)
+- 21_ATS_GPU-Accelerated Timing Simulation of Systolic-Array-Based AI Accelerators [[paper]](https://ieeexplore.ieee.org/document/9668210)
+- 
 - Lightning: Leveraging DVFS-induced Transient Fault Injection to Attack Deep Learning Accelerator of GPUs [[paper]](https://dl.acm.org/doi/10.1145/3617893)
 
 
