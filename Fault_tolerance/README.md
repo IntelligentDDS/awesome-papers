@@ -110,6 +110,7 @@
 - 21_ACCESS_Diaspore: Diagnosing Performance Interference in Apache Spark [[paper]](https://ieeexplore.ieee.org/document/9490641)
 - 15_HPCC-CSS-ICESS_Performance Prediction for Apache Spark Platform [[paper]](https://ieeexplore.ieee.org/document/7336160)
 - 17_ICWS_Log-based Abnormal Task Detection and Root Cause Analysis for Spark [[paper]](https://ieeexplore.ieee.org/document/8029786)
+- 23_ICSE-SEIP_An Empirical Study on Quality Issues of Deep Learning Platform [[paper]](https://www.computer.org/csdl/proceedings-article/icse-seip/2023/003700a455/1OH5KriGABa)
 
 #### Infrastructure
 
