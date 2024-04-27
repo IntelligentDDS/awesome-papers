@@ -19,7 +19,7 @@
       - [Service](#service-1)
       - [Model](#model-1)
       - [Framework](#framework-1)
-      - [Tooolkits](#tooolkits-1)
+      - [Toolkits](#toolkits)
       - [Platform](#platform-1)
       - [Infrastructure](#infrastructure-1)
 
@@ -91,8 +91,39 @@
 - 19_Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads [[paper]](https://www.usenix.org/conference/atc19/presentation/jeon)
 
 #### Service 
+- 21_EDBT_JENGA - A Framework to Study the Impact of Data Errors on the Predictions of Machine Learning Models [[paper]](https://openproceedings.org/2021/conf/edbt/p134.pdf)
+- 23_QRS_Online Data Drift Detection for Anomaly Detection Services based on Deep Learning towards Multivariate Time Series [[paper]](https://ieeexplore.ieee.org/document/10366704)
+- 22_EMNLP_On the Impact of Temporal Concept Drift on Model Explanations [[paper]](https://aclanthology.org/2022.findings-emnlp.298/)
+- 19_IOP_An Overview of Overfitting and its Solutions [[paper]](https://iopscience.iop.org/article/10.1088/1742-6596/1168/2/022022)
+- 23_How is ChatGPT’s behavior changing over time? [[paper]](https://arxiv.org/pdf/2307.09009)
+- 22_ISSRE_LLTFI: Framework Agnostic Fault Injection for Machine Learning Applications (Tools and Artifact Track) [[paper]](https://ieeexplore.ieee.org/document/9978979)
+- 23_MPGemmFI: A Fault Injection Technique for Mixed Precision GEMM in ML Applications [[paper]](https://arxiv.org/abs/2311.05782)
+- 22_Systematic literature review on software quality for AI-based software [[paper]](https://link.springer.com/article/10.1007/s10664-021-10105-2)
+- 21_SWQD_Software Quality for AI: Where We Are Now? [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-65854-0_4)
+- 21_ICSE_Are Machine Learning Cloud APIs Used Correctly? [[paper]](https://ieeexplore.ieee.org/document/9402073)
+- 23_AI for Cybersecurity: A Study on Machine Learning and DoS Attacks AI Robustness and Bypassing Detection Methods [[paper]](https://hh.diva-portal.org/smash/get/diva2:1777110/FULLTEXT02.pdf)
+- 23_Tricking llms into disobedience: Understanding, analyzing, and preventing jailbreaks [[paper]](https://arxiv.org/abs/2305.14965)
+- 21_Advances in Adversarial Attacks and Defenses in Computer Vision: A Survey [[paper]](https://ieeexplore.ieee.org/document/9614158)
+- 24_AAAI_Visual Adversarial Examples Jailbreak Aligned Large Language Models [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/30150)
 
 #### Model 
+- 22_Faults in deep reinforcement learning programs: a taxonomy and a detection approach [[paper]](https://link.springer.com/article/10.1007/s10515-021-00313-x)
+- 23_ICSE_Data Quality for Software Vulnerability Datasets [[paper]](https://ieeexplore.ieee.org/document/10172650)
+- 22_Author Correction: Advances, challenges and opportunities in creating data for trustworthy AI [[paper]](https://www.nature.com/articles/s42256-022-00548-7)
+- 22_A review: Data pre-processing and data augmentation techniques [[paper]](https://www.sciencedirect.com/science/article/pii/S2666285X22000565)
+- 23_VLDB_Data collection and quality challenges in deep learning: a data-centric AI perspective [[paper]](https://link.springer.com/article/10.1007/s00778-022-00775-9)
+- 20_Impact of fully connected layers on performance of convolutional neural networks for image classification [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231219313803)
+- 20_INMIC_Effects of hidden layers on the efficiency of neural networks [[paper]](https://ieeexplore.ieee.org/document/9318195)
+- 24_ShortGPT: Layers in Large Language Models are More Redundant Than You Expect [[paper]](https://arxiv.org/abs/2403.03853)
+- 23_Finding Neurons in a Haystack: Case Studies with Sparse Probing [[paper]](https://arxiv.org/abs/2305.01610)
+- 19_NeurIPS_Control Batch Size and Learning Rate to Generalize Well: Theoretical and Empirical Evidence [[paper]](https://proceedings.neurips.cc/paper/2019/hash/dc6a70712a252123c40d2adba6a11d84-Abstract.html)
+- 23_Exploring the Relationship Between Learning Rate, Batch Size, and Epochs in Deep Learning: An Experimental Study [[paper]](https://link.springer.com/chapter/10.1007/978-981-19-6525-8_16)
+- 23_A Comprehensive Overview and Comparative Analysis on Deep Learning Models: CNN, RNN, LSTM, GRU [[paper]](https://arxiv.org/abs/2305.17473)
+- 22_Activation functions in deep learning: A comprehensive survey and benchmark [[paper]](https://linkinghub.elsevier.com/retrieve/pii/S0925231222008426)
+- 22_A comprehensive survey on regularization strategies in machine learning [[paper]](https://linkinghub.elsevier.com/retrieve/pii/S156625352100230X)
+- 21_Comparison of optimization techniques based on gradient descent algorithm: A review [[paper]](https://www.researchgate.net/publication/349573260_COMPARISON_OF_OPTIMIZATION_TECHNIQUES_BASED_ON_GRADIENT_DESCENT_ALGORITHM_A_REVIEW_PJAEE_18_4_2021_COMPARISON_OF_OPTIMIZATION_TECHNIQUES_BASED_ON_GRADIENT_DESCENT_ALGORITHM_A_REVIEW_Comparison_Of_Opti)
+- 20_A comprehensive survey of loss functions in machine learning [[paper]](https://link.springer.com/article/10.1007/s40745-020-00253-5)
+- 22_Ideal dataset splitting ratios in machine learning algorithms: general concerns for data scientists and data analysts [[paper]](https://www.researchgate.net/publication/358284895_IDEAL_DATASET_SPLITTING_RATIOS_IN_MACHINE_LEARNING_ALGORITHMS_GENERAL_CONCERNS_FOR_DATA_SCIENTISTS_AND_DATA_ANALYSTS)
 
 
 #### Framework
@@ -137,13 +168,32 @@
 - 22_SANER_How Do Injected Bugs Affect Deep Learning? [[paper]](https://www.cs.sjtu.edu.cn/~zhonghao/paper/saner-mutation.pdf) [[code]](https://github.com/bugdataupload/deeplearningbugs)
 
 #### Service 
-
 - 24_ICSE_Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection [[paper]](https://arxiv.org/abs/2302.12173)
-
+- 15_ICLR_Explaining and Harnessing Adversarial Examples [[paper]](https://arxiv.org/abs/1412.6572)
+- 18_ICLR_Towards Deep Learning Models Resistant to Adversarial Attacks [[paper]](https://openreview.net/forum?id=rJzIBfZAb)
+- 22_DI-AA: An interpretable white-box attack for fooling deep neural networks [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025522008520)
+- 20_SP_HopSkipJumpAttack: A Query-Efficient Decision-Based Attack [[paper]](https://ieeexplore.ieee.org/document/9152788)
+- 21_ICML_PopSkipJump: Decision-Based Attack for Probabilistic Classifiers [[paper]](http://proceedings.mlr.press/v139/simon-gabriel21a.html)
+- 20_CVPR_GeoDA: A Geometric Framework for Black-Box Adversarial Attacks [[paper]](https://ieeexplore.ieee.org/document/9157133)
+- 23_I See Dead People: Gray-Box Adversarial Attack on Image-To-Text Models [[paper]](https://arxiv.org/abs/2306.07591)
+- 23_Promptaid: Prompt exploration, perturbation, testing and iteration using visual analytics for large language models [[paper]](https://arxiv.org/abs/2304.01964)
+- 23_Prompt Injection attack against LLM-integrated Applications [[paper]](https://arxiv.org/abs/2306.05499)
+- 24_Goal-guided Generative Prompt Injection Attack on Large Language Models [[paper]](https://arxiv.org/abs/2404.07234)
+- 20_DSN_PyTorchFI: A Runtime Perturbation Tool for DNNs [[paper]](https://ieeexplore.ieee.org/document/9151812)
+- 18_ISSRE_TensorFI: A Configurable Fault Injector for TensorFlow Applications [[paper]](https://ieeexplore.ieee.org/document/8539213)
+- 21_DeepTest_TF-DM: Tool for Studying ML Model Resilience to Data Faults [[paper]](https://ieeexplore.ieee.org/document/9476897)
+- 21_ISSREW_MindFI: A Fault Injection Tool for Reliability Assessment of MindSpore Applicacions [[paper]](https://ieeexplore.ieee.org/document/9700393)
+- 18_DAC_Ares: a framework for quantifying the resilience of deep neural networks [[paper]](https://dl.acm.org/doi/10.1145/3195970.3195997)
+- 19_SC_BinFI : an efficient fault injector for safety-critical machine learning systems [[paper]](https://dl.acm.org/doi/10.1145/3295500.3356177)
 
 #### Model 
-
-
+- 18_ISSRE_DeepMutation: Mutation Testing of Deep Learning Systems [[paper]](https://ieeexplore.ieee.org/document/8539073)
+- 19_ASE_DeepMutation++: A Mutation Testing Framework for Deep Learning Systems [[paper]](https://ieeexplore.ieee.org/document/8952248)
+- 18_QRS_MuNN: Mutation Analysis of Neural Networks [[paper]](https://ieeexplore.ieee.org/document/8431960)
+- 21_ISSTA_DeepCrime: Mutation Testing of Deep Learning Systems Based on Real Faults [[paper]](https://dl.acm.org/doi/10.1145/3460319.3464825)
+- 22_Towards mutation testing of Reinforcement Learning systems [[paper]](https://linkinghub.elsevier.com/retrieve/pii/S1383762122001977)
+- 23_ICST_Mutation Testing of Deep Reinforcement Learning Based on Real Faults [[paper]](https://ieeexplore.ieee.org/document/10132198)
+- 22_SETTA_MTUL: Towards Mutation Testing of Unsupervised Learning Systems [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-21213-0_2)
 
 #### Framework
 
