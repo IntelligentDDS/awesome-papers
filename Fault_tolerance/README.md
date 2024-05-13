@@ -1,6 +1,7 @@
 # Fault Tolerance
 
 **Content**
+
 - [Fault Tolerance](#fault-tolerance)
   - [Cloud System](#cloud-system)
     - [Failure Analysis](#failure-analysis)
@@ -23,7 +24,6 @@
       - [Platform](#platform-1)
       - [Infrastructure](#infrastructure-1)
 
-
 ## Cloud System
 
 ### Failure Analysis
@@ -41,6 +41,7 @@
 - 16_SIGCOM_Taking the Blame Game out of Data Centers Operations with NetPoirot [[paper]](https://dl.acm.org/doi/10.1145/2934872.2934884)
 
 ### Fault Injection
+
 - 24_Neural Fault Injection: Generating Software Faults from Natural Language [[paper]](https://arxiv.org/pdf/2404.07491.pdf) 
 - 24_S&P_Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay [[paper]](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/Chronos_sp24.pdf) [[code]](https://github.com/SecTechTool/Chronos)
 - 24_TDSC_MicroFI: Non-Intrusive and Prioritized Request-Level Fault Injection for Microservice Applications [[paper]](https://yuxiaoba.github.io/publication/microfi24/microfi24.pdf)
@@ -70,13 +71,14 @@
 - 15_SIGMOD_Lineage-driven Fault Injection [[paper]](https://dl.acm.org/doi/10.1145/2723372.2723711)
 
 ### Fault Recovery
+
 -24_Eurosys_Atlas: Hybrid Cloud Migration Advisor for Interactive Microservices [[paper]](https://arxiv.org/pdf/2311.06962.pdf)
+
 - 22_KDD_NENYA: Cascade Reinforcement Learning for Cost-Aware Failure Mitigation at Microsoft 365 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539127)
 - 22_SoCC_Method Overloading the Circuit [[paper]](https://dl.acm.org/doi/abs/10.1145/3542929.3563466) [[video]](https://www.youtube.com/watch?v=A3FWuvDEZJI)
 - 21_DSN_FIRestarter: Practical Software Crash Recovery with Targeted Library-level Fault Injection [[paper]](https://download.vusec.net/papers/firestarter_dsn21.pdf) [[code]](https://github.com/vusec/firestarter)
-
-
-
+  
+  
 
 ## AI System
 
@@ -90,7 +92,8 @@
 - 20_ICSE_An Empirical Study on Program Failures of Deep Learning Jobs [[paper]](https://dl.acm.org/doi/10.1145/3377811.3380362)
 - 19_Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads [[paper]](https://www.usenix.org/conference/atc19/presentation/jeon)
 
-#### Service 
+#### Service
+
 - 21_EDBT_JENGA - A Framework to Study the Impact of Data Errors on the Predictions of Machine Learning Models [[paper]](https://openproceedings.org/2021/conf/edbt/p134.pdf)
 - 23_QRS_Online Data Drift Detection for Anomaly Detection Services based on Deep Learning towards Multivariate Time Series [[paper]](https://ieeexplore.ieee.org/document/10366704)
 - 22_EMNLP_On the Impact of Temporal Concept Drift on Model Explanations [[paper]](https://aclanthology.org/2022.findings-emnlp.298/)
@@ -106,7 +109,8 @@
 - 21_Advances in Adversarial Attacks and Defenses in Computer Vision: A Survey [[paper]](https://ieeexplore.ieee.org/document/9614158)
 - 24_AAAI_Visual Adversarial Examples Jailbreak Aligned Large Language Models [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/30150)
 
-#### Model 
+#### Model
+
 - 22_Faults in deep reinforcement learning programs: a taxonomy and a detection approach [[paper]](https://link.springer.com/article/10.1007/s10515-021-00313-x)
 - 23_ICSE_Data Quality for Software Vulnerability Datasets [[paper]](https://ieeexplore.ieee.org/document/10172650)
 - 22_Author Correction: Advances, challenges and opportunities in creating data for trustworthy AI [[paper]](https://www.nature.com/articles/s42256-022-00548-7)
@@ -125,8 +129,8 @@
 - 20_A comprehensive survey of loss functions in machine learning [[paper]](https://link.springer.com/article/10.1007/s40745-020-00253-5)
 - 22_Ideal dataset splitting ratios in machine learning algorithms: general concerns for data scientists and data analysts [[paper]](https://www.researchgate.net/publication/358284895_IDEAL_DATASET_SPLITTING_RATIOS_IN_MACHINE_LEARNING_ALGORITHMS_GENERAL_CONCERNS_FOR_DATA_SCIENTISTS_AND_DATA_ANALYSTS)
 
-
 #### Framework
+
 - 24_ESE_Silent Bugs in Deep Learning Frameworks: An Empirical Study of Keras and TensorFlow [[paper]](https://arxiv.org/abs/2112.13314) [[code]](https://github.com/amin-nikanjam/SilentBugsInTensorFlowKeras)
 - 23_ICPC_Understanding Bugs in Multi-Language Deep Learning Frameworks [[paper]](https://arxiv.org/abs/2303.02695)
 - 23_TOSEM_Toward Understanding Deep Learning Framework Bugs [[paper]](https://arxiv.org/pdf/2203.04026.pdf)
@@ -134,10 +138,25 @@
 - 20_ICSE_Taxonomy of Real Faults in Deep Learning Systems [[paper]](https://arxiv.org/pdf/1910.11015.pdf)
 - 19_FSE_A Comprehensive Study on Deep Learning Bug Characteristics [[paper]](https://arxiv.org/abs/1906.01388)
 - 18_FSE_An Empirical Study on TensorFlow Program Bugs [[paper]](https://dl.acm.org/doi/10.1145/3213846.3213866)
+- 24_NSDI_Characterization of Large Language Model Development in the Datacenter [[paper]](https://www.usenix.org/system/files/nsdi24-hu.pdf)
+- 22_INFSOF_A comprehensive empirical study on bug characteristics of deep learning frameworks [[paper]](https://dl.acm.org/doi/10.1016/j.infsof.2022.107004)
+- 22_ASE_Towards Understanding the Faults of JavaScript-Based Deep Learning Systems [[paper]](https://dl.acm.org/doi/abs/10.1145/3551349.3560427)
+- 20_ICSE_An empirical study on program failures of deep learning jobs [[paper]](https://dl.acm.org/doi/10.1145/3377811.3380362)
 
 #### Tooolkits
 
+- 13_ESOP_Interleaving and lock-step semantics for analysis and verification of GPU kernels [[paper]](https://link.springer.com/chapter/10.1007/978-3-642-37036-6_16)
+- 19_ASE_Automating CUDA Synchronization via Program Transformation [[paper]](https://ieeexplore.ieee.org/document/8952529)
+- 18_ISSRE_Bugaroo: Exposing Memory Model Bugs in Many-Core Systems [[paper]](https://ieeexplore.ieee.org/document/8539080)
+- 19_SP_SoK: Sanitizing for Security [[paper]](https://oaklandsok.github.io/papers/song2019.pdf)
+- 23_PLDI_cuCatch: A Debugging Tool for Efficiently Catching Memory Safety Violations in CUDA Applications [[paper]](https://dl.acm.org/doi/abs/10.1145/3591225)
+- 23_FSE_Demystifying Dependency Bugs in Deep Learning Stack [[paper]](https://dl.acm.org/doi/abs/10.1145/3611643.3616325)
+- 23_ISCE_An Empirical Study on Quality Issues of Deep Learning Platform [[paper]](https://ieeexplore.ieee.org/iel7/10172485/10172344/10172667.pdf)
+- 24_NSDI_Characterization of Large Language Model Development in the Datacenter [[paper]](https://www.usenix.org/system/files/nsdi24-hu.pdf)
+- 19_ATC_Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads [[paper]](https://www.usenix.org/conference/atc19/presentation/jeon)
+
 #### Platform
+
 - 21_ACCESS_Diaspore: Diagnosing Performance Interference in Apache Spark [[paper]](https://ieeexplore.ieee.org/document/9490641)
 - 15_HPCC-CSS-ICESS_Performance Prediction for Apache Spark Platform [[paper]](https://ieeexplore.ieee.org/document/7336160)
 - 17_ICWS_Log-based Abnormal Task Detection and Root Cause Analysis for Spark [[paper]](https://ieeexplore.ieee.org/document/8029786)
@@ -167,7 +186,8 @@
 
 - 22_SANER_How Do Injected Bugs Affect Deep Learning? [[paper]](https://www.cs.sjtu.edu.cn/~zhonghao/paper/saner-mutation.pdf) [[code]](https://github.com/bugdataupload/deeplearningbugs)
 
-#### Service 
+#### Service
+
 - 24_ICSE_Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection [[paper]](https://arxiv.org/abs/2302.12173)
 - 15_ICLR_Explaining and Harnessing Adversarial Examples [[paper]](https://arxiv.org/abs/1412.6572) [[code]](https://github.com/Harry24k/FGSM-pytorch)
 - 18_ICLR_Towards Deep Learning Models Resistant to Adversarial Attacks [[paper]](https://openreview.net/forum?id=rJzIBfZAb) [[code]](https://github.com/Harry24k/PGD-pytorch)
@@ -186,7 +206,8 @@
 - 18_DAC_Ares: a framework for quantifying the resilience of deep neural networks [[paper]](https://dl.acm.org/doi/10.1145/3195970.3195997) [[code]](https://github.com/alugupta/ares)
 - 19_SC_BinFI : an efficient fault injector for safety-critical machine learning systems [[paper]](https://dl.acm.org/doi/10.1145/3295500.3356177) [[code]](https://github.com/DependableSystemsLab/TensorFI-BinaryFI)
 
-#### Model 
+#### Model
+
 - 18_ISSRE_DeepMutation: Mutation Testing of Deep Learning Systems [[paper]](https://ieeexplore.ieee.org/document/8539073) [[code]](https://github.com/tkuo-tkuo/DeepMutationOperators)
 - 19_ASE_DeepMutation++: A Mutation Testing Framework for Deep Learning Systems [[paper]](https://ieeexplore.ieee.org/document/8952248)
 - 18_QRS_MuNN: Mutation Analysis of Neural Networks [[paper]](https://ieeexplore.ieee.org/document/8431960)
@@ -197,17 +218,29 @@
 
 #### Framework
 
+- 20_ISSRE_TensorFI: Flexible Fault Injection Framework for TensorFlow Applications [[paper]]([CSDL | IEEE Computer Society](https://www.computer.org/csdl/proceedings-article/issre/2020/987000a426/1oFGJJ92Fy0)) [[code]](https://github.com/DependableSystemsLab/TensorFI)
+- 22_TDSC_Fault Injection for TensorFlow Applications [[paper]]([Fault Injection for TensorFlow Applications | IEEE Journals &amp; Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/9831186)) [[code]](https://github.com/DependableSystemsLab/TensorFI2)
+- 20_Fault Injectors for TensorFlow: Evaluation of the Impact of Random Hardware Faults on Deep CNNs [[paper]]([[2012.07037] Fault Injectors for TensorFlow: Evaluation of the Impact of Random Hardware Faults on Deep CNNs](https://arxiv.org/abs/2012.07037)) [[code]](https://github.com/mbsa-tud/InjectTF)
+- 20_LASCAS_Reliability Evaluation of Compressed Deep Learning Models [[paper]](https://ieeexplore.ieee.org/document/9069026) [[code]](https://github.com/bfgoldstein/torchfi)
+- 20_DSN_PyTorchFI: A Runtime Perturbation Tool for DNNs [[paper]](https://ieeexplore.ieee.org/document/9151812) [[code]](https://github.com/pytorchfi/pytorchfi)
+- 22_TR_SNIFF: Reverse Engineering of Neural Networks With Fault Attacks [[paper]](https://ieeexplore.ieee.org/document/9530205)
+- 21_ISSREW_MindFI: A Fault Injection Tool for Reliability Assessment of MindSpore Applicacions [[paper]](https://ieeexplore.ieee.org/document/9700393)
+- 22_IROS_enpheeph: A Fault Injection Framework for Spiking and Compressed Deep Neural Networks [[paper]](https://ieeexplore.ieee.org/iel7/9981026/9981028/09982181.pdf) [[code]](https://github.com/Alexei95/enpheeph)
 
 #### Toolkits
 
 - 15_Cluster_Fast Fault Injection and Sensitivity Analysis for Collective Communications [[paper]](https://ieeexplore.ieee.org/document/7307578)
+- 20_ICSE_Simulee: detecting CUDA synchronization bugs via memory-access modeling [[paper]](https://dl.acm.org/doi/10.1145/3377811.3380358) [[code]](https://github.com/Lebronmydx/Simulee)
+- 20_COMPSAC_CUDAsmith: A Fuzzer for CUDA Compilers [[paper]](https://ieeexplore.ieee.org/document/9202798) [[code]](https://github.com/gongbell/CUDAsmith)
+- 15_SIGPLAN_Many-core compiler fuzzing [[paper]](https://dl.acm.org/doi/10.1145/2737924.2737986) [[code]](https://github.com/ChrisLidbury/CLSmith/)
 
 #### Platform
+
 - 22_STVR_TRANSMUT-Spark: Transformation mutation for Apache Spark [[paper]](https://onlinelibrary.wiley.com/doi/10.1002/stvr.1809)
 - 23_FSE_Co-dependence Aware Fuzzing for Dataflow-Based Big Data Analytics [[paper]](https://dl.acm.org/doi/10.1145/3611643.3616298)
 
-
 #### Infrastructure
+
 - 17_ISPASS_SASSIFI: An architecture-level fault injection tool for GPU application resilience evaluation [[paper]](https://doi.org/10.1109/ISPASS.2017.7975296)
 - 14_ISPASS_GPU-Qin: A methodology for evaluating the error resilience of GPGPU applications [[paper]](https://ieeexplore.ieee.org/document/6844486/)
 - 21_DSN_NVBitFI: Dynamic Fault Injection for GPUs[[paper]](https://ieeexplore.ieee.org/document/9505068)
@@ -225,13 +258,3 @@
 - 21_ATS_GPU-Accelerated Timing Simulation of Systolic-Array-Based AI Accelerators [[paper]](https://ieeexplore.ieee.org/document/9668210)
 - 
 - Lightning: Leveraging DVFS-induced Transient Fault Injection to Attack Deep Learning Accelerator of GPUs [[paper]](https://dl.acm.org/doi/10.1145/3617893)
-
-
-
-
-
-
-
-
-
-
