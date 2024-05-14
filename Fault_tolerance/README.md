@@ -142,6 +142,12 @@
 - 22_INFSOF_A comprehensive empirical study on bug characteristics of deep learning frameworks [[paper]](https://dl.acm.org/doi/10.1016/j.infsof.2022.107004)
 - 22_ASE_Towards Understanding the Faults of JavaScript-Based Deep Learning Systems [[paper]](https://dl.acm.org/doi/abs/10.1145/3551349.3560427)
 - 20_ICSE_An empirical study on program failures of deep learning jobs [[paper]](https://dl.acm.org/doi/10.1145/3377811.3380362)
+- 12_ISSRE_An Empirical Study of Bugs in Machine Learning Systems [[paper]](https://ieeexplore.ieee.org/document/6405375)
+- 23_TCAD_Statistical Modeling of Soft Error Influence on Neural Networks [[paper]](https://ieeexplore.ieee.org/abstract/document/10098868/)
+- 23_Towards efficient generative large language model serving: A survey from algorithms to systems [[paper]](https://arxiv.org/abs/2312.15234)
+- 20_DFT_A Pipelined Multi-Level Fault Injector for Deep Neural Networks [[paper]](https://ieeexplore.ieee.org/abstract/document/9250866/)
+- 20_ICSE_An empirical study on program failures of deep learning jobs [[paper]](https://dl.acm.org/doi/10.1145/3377811.3380362)
+- 23_ISCE_An Empirical Study on Quality Issues of Deep Learning Platform [[paper]](https://ieeexplore.ieee.org/iel7/10172485/10172344/10172667.pdf)
 
 #### Tooolkits
 
@@ -154,6 +160,14 @@
 - 23_ISCE_An Empirical Study on Quality Issues of Deep Learning Platform [[paper]](https://ieeexplore.ieee.org/iel7/10172485/10172344/10172667.pdf)
 - 24_NSDI_Characterization of Large Language Model Development in the Datacenter [[paper]](https://www.usenix.org/system/files/nsdi24-hu.pdf)
 - 19_ATC_Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads [[paper]](https://www.usenix.org/conference/atc19/presentation/jeon)
+- 14_PLDI_Accurate application progress analysis for large-scale parallel debugging [[paper]](https://dl.acm.org/doi/abs/10.1145/2666356.2594336)
+- 04_SC_Assessing Fault Sensitivity in MPI Applications [[paper]](https://ieeexplore.ieee.org/abstract/document/1392967/)
+- 16_TECS_CUDA Leaks: A Detailed Hack for CUDA and a (Partial) Fix [[paper]](https://dl.acm.org/doi/abs/10.1145/2801153)
+- 18_PLDI_CURD: a dynamic CUDA race detector [[paper]](https://dl.acm.org/doi/abs/10.1145/3296979.3192368)
+- 17_JSA_Evaluation of transient errors in GPGPUs for safety critical applications: An effective simulation-based fault injection environment [[paper]](https://www.sciencedirect.com/science/article/pii/S1383762117300528)
+- 14_DAC_Exploring the Heterogeneous Design Space for both Performance and Reliability [[paper]](https://dl.acm.org/doi/abs/10.1145/2593069.2596680)
+- 14_LATW_Implementation and experimental evaluation of a CUDA core under single event effects [[paper]](https://ieeexplore.ieee.org/abstract/document/6841913/)
+- 17_PVM_What does fault tolerant deep learning need from MPI? [[paper]](https://dl.acm.org/doi/abs/10.1145/3127024.3127037)
 
 #### Platform
 
@@ -226,6 +240,10 @@
 - 22_TR_SNIFF: Reverse Engineering of Neural Networks With Fault Attacks [[paper]](https://ieeexplore.ieee.org/document/9530205)
 - 21_ISSREW_MindFI: A Fault Injection Tool for Reliability Assessment of MindSpore Applicacions [[paper]](https://ieeexplore.ieee.org/document/9700393)
 - 22_IROS_enpheeph: A Fault Injection Framework for Spiking and Compressed Deep Neural Networks [[paper]](https://ieeexplore.ieee.org/iel7/9981026/9981028/09982181.pdf) [[code]](https://github.com/Alexei95/enpheeph)
+- 23_TC_Fast and Accurate Error Simulation for CNNs Against Soft Errors [[paper]](https://arxiv.org/abs/2206.02051)
+- 17_ICCAD_Fault injection attack on deep neural network [[paper]](https://ieeexplore.ieee.org/abstract/document/8203770/)
+- 22_ISSRE_LLTFI: Framework Agnostic Fault Injection for Machine Learning Applications (Tools and Artifact Track) [[paper]](https://ieeexplore.ieee.org/document/9978979) [[code]](https://github.com/DependableSystemsLab/LLTFI)
+- 23_ETS_SCI-FI: a Smart, aCcurate and unIntrusive Fault-Injector for Deep Neural Networks [[paper]](https://ieeexplore.ieee.org/abstract/document/10173957/)
 
 #### Toolkits
 
@@ -233,6 +251,7 @@
 - 20_ICSE_Simulee: detecting CUDA synchronization bugs via memory-access modeling [[paper]](https://dl.acm.org/doi/10.1145/3377811.3380358) [[code]](https://github.com/Lebronmydx/Simulee)
 - 20_COMPSAC_CUDAsmith: A Fuzzer for CUDA Compilers [[paper]](https://ieeexplore.ieee.org/document/9202798) [[code]](https://github.com/gongbell/CUDAsmith)
 - 15_SIGPLAN_Many-core compiler fuzzing [[paper]](https://dl.acm.org/doi/10.1145/2737924.2737986) [[code]](https://github.com/ChrisLidbury/CLSmith/)
+- 00_IPDPS_FIMD-MPI: a tool for injecting faults into MPI application [[paper]](https://ieeexplore.ieee.org/abstract/document/845991/)
 
 #### Platform
 
