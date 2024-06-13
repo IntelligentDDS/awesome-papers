@@ -9,6 +9,7 @@
   - [Network](#network)
 
 ## Metric
+- 24_FSE_MonitorAssistant: Simplifying Cloud Service Monitoringvia Large Language Models [[paper]](https://netman.aiops.org/wp-content/uploads/2024/05/MonitorAssistant_CameraReady-v1.4_submitted.pdf)
 - 22_Cloud_MicroLens: A Performance Analysis Framework for Microservices Using Hidden Metrics With BPF [[paper]](https://ieeexplore.ieee.org/document/9860695)
 - 21_ICSE_Kmon: An In-kernel Transparent Monitoring System for Microservice Systems with eBPF [[paper]](https://yuxiaoba.github.io/publication/kmon/kmon.pdf) [[code]](https://github.com/IntelligentDDS/Kmon)
 - 21_Experiences in Managing the Performance and Reliability of a Large-Scale Genomics Cloud Platform [[paper]](https://www.usenix.org/conference/atc21/presentation/tong)
@@ -17,6 +18,7 @@
 
 
 ## Log
+- 23_ISSRE_Loghub: A Large Collection of System Log Datasets for AI-driven Log Analytics [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10301257) [[code]](https://github.com/logpai/loghub)
 - 23_ICSE_LogReducer: Identify and Reduce Log Hotspots inKernel on the Fly [[paper]](https://yuxiaoba.github.io/publication/logreducer22/logreducer22.pdf) [[code]](https://github.com/IntelligentDDS/LogReducer)
 - 22_FSE_An Empirical Study of Log Analysis at Microsoft [[paper]](https://dl.acm.org/doi/abs/10.1145/3540250.3558963)
 - 22_ICPC_QuLog: Data-Driven Approach for Log Instruction Quality Assessment [[paper]](https://arxiv.org/abs/2204.02618) [[code]](https://github.com/qulog/QuLog)
