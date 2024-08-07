@@ -18,6 +18,7 @@
 ## Metric
 - 23_Asplos_ShapleyIQ: Influence Quantification by Shapley Values for Performance Debugging of Microservices [[paper]](https://dl.acm.org/doi/abs/10.1145/3623278.3624771) 
 - 23_ASE_PERFCE: Performance Debugging on Databases with Chaos Engineering-Enhanced Causality Analysis [[paper]](https://arxiv.org/pdf/2207.08369.pdf) [[code]](https://anonymous.4open.science/r/PerfCE-85E0/README.md)
+- 23_ICSE-SEIP_CONAN: Diagnosing Batch Failures for Cloud Systems [[paper]](https://ieeexplore.ieee.org/document/10172587)
 - 23_WWW_CMDiagnostor: An Ambiguity-Aware Root Cause Localization Approach Based on Call Metric Data [[paper]](https://netman.aiops.org/wp-content/uploads/2023/02/CMDiagnostor_www_2023.pdf) [[code]](https://github.com/NetManAIOps/CMDiagnostor)
 - 23_WWW_CausIL: Causal Graph for Instance Level Microservice Data [[paper]](https://arxiv.org/pdf/2303.00554.pdf) [[code]](https://github.com/sarthak-chakraborty/CausIL)
 - 22_Cloud_MicroLens: A Performance Analysis Framework for Microservices Using Hidden Metrics With BPF [[paper]](https://ieeexplore.ieee.org/document/9860695)
