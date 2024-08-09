@@ -15,3 +15,7 @@
 - 23_ICML_FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU [[paper]](https://dl.acm.org/doi/10.5555/3618408.3619696) [[code]](https://github.com/FMInference/FlexGen)
 - 23_SOSP_Efficient Memory Management for Large Language Model Serving with PagedAttention [[paper]](https://arxiv.org/abs/2309.06180) [[code]](https://github.com/vllm-project/vllm)
 - 22_NSDI_Orca: A Distributed Serving System for Transformer-Based Generative Models [[paper]](https://www.usenix.org/conference/osdi22/presentation/yu)
+
+
+## LLM Simulation
+- 24_MLSys_Vidur: A Large-Scale Simulation Framework For LLM Inference [[paper]](https://arxiv.org/abs/2405.05465) [[code]](https://github.com/microsoft/vidur)

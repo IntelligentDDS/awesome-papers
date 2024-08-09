@@ -18,6 +18,7 @@
 
 
 ## Config
+- 24_Configuration Validation with Large Language Models [[paper]](https://arxiv.org/pdf/2310.09690)
 - 24_GenKubeSec: LLM-Based Kubernetes Misconfiguration Detection, Localization, Reasoning, and Remediation [[paper]](https://arxiv.org/pdf/2405.19954)
 - 24_Identifying Performance-Sensitive Configurations in Software
 Systems through Code Analysis with LLM Agents [[paper]](https://arxiv.org/pdf/2406.12806)
