@@ -4,10 +4,11 @@
 
 
 - [LLM4Ops](#llm4ops)
-  - [Incident](#incident)
+  - [Root Cause Analysis](#root-cause-analysis)
   - [Config](#config)
 
-## Incident
+## Root Cause Analysis
+- 24_CIKM_RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models [[paper]](https://arxiv.org/abs/2310.16340)
 - 24_FSE_MonitorAssistant: Simplifying Cloud Service Monitoringvia Large Language Models [[paper]](https://netman.aiops.org/wp-content/uploads/2024/05/MonitorAssistant_CameraReady-v1.4_submitted.pdf)
 - 24_ICSE_LogExpert: Log-based Recommended Resolutions Generation using Large Language Model [[paper]](https://dl.acm.org/doi/pdf/10.1145/3639476.3639773)
 - 24_Eurosys_Empowering Practical Root Cause Analysis by Large Language Models for Cloud Incidents [[paper]](https://arxiv.org/pdf/2305.18084.pdf)
@@ -18,6 +19,8 @@
 
 
 ## Config
+- 24_LLMTune: Accelerate Database Knob Tuning with Large Language Models [[paper]](https://arxiv.org/abs/2404.11581)
+- 24_VLDB_GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization [[paper]](https://arxiv.org/abs/2311.03157)
 - 24_Configuration Validation with Large Language Models [[paper]](https://arxiv.org/pdf/2310.09690)
 - 24_GenKubeSec: LLM-Based Kubernetes Misconfiguration Detection, Localization, Reasoning, and Remediation [[paper]](https://arxiv.org/pdf/2405.19954)
 - 24_Identifying Performance-Sensitive Configurations in Software

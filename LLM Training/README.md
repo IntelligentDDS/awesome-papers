@@ -4,7 +4,7 @@
 - 24_ATC_SuperBench: Improving Cloud AI Infrastructure Reliability with Proactive Validation [[paper]](https://arxiv.org/abs/2402.06194)  [Microsoft] [Best Paper]
 - 24_The Llama 3 Herd of Models [[paper]](https://ai.meta.com/research/publications/the-llama-3-herd-of-models/) [Meta]
   > During a 54-day snapshot period of pre-training, we experienced a total of 466 job interruptions.
-- 23_Unicron: Economizing Self-Healing LLM Training at Scale [[paper]](https://arxiv.org/abs/2401.00134) [Alibaba]
+- 23_Unicron: Economizing Self-Healing LLM Training at Scale [Alibaba] [[paper]](https://arxiv.org/abs/2401.00134) 
 
 
 ## Checkpoint
