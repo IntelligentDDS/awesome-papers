@@ -4,12 +4,14 @@
 
 
 - [LLM4Ops](#llm4ops)
-  - [Root Cause Analysis](#root-cause-analysis)
+  - [Root Cause Analysis and Mitigation](#root-cause-analysis-and-mitigation)
   - [Config](#config)
 
-## Root Cause Analysis
+## Root Cause Analysis and Mitigation
+- 24_Sigops_LLexus: an AI agent system for incident management [[paper]](https://www.microsoft.com/en-us/research/publication/llexus-an-ai-agent-system-for-incident-management/)
 - 24_CIKM_RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models [[paper]](https://arxiv.org/abs/2310.16340)
-- 24_FSE_MonitorAssistant: Simplifying Cloud Service Monitoringvia Large Language Models [[paper]](https://netman.aiops.org/wp-content/uploads/2024/05/MonitorAssistant_CameraReady-v1.4_submitted.pdf)
+- 24_FSE Companion _Leveraging Large Language Models for the Auto-remediation of Microservice Applications: An Experimental Study [[paper]](https://dl.acm.org/doi/abs/10.1145/3663529.3663855)
+- 24_FSE Companion _MonitorAssistant: Simplifying Cloud Service Monitoringvia Large Language Models [[paper]](https://netman.aiops.org/wp-content/uploads/2024/05/MonitorAssistant_CameraReady-v1.4_submitted.pdf)
 - 24_ICSE_LogExpert: Log-based Recommended Resolutions Generation using Large Language Model [[paper]](https://dl.acm.org/doi/pdf/10.1145/3639476.3639773)
 - 24_Eurosys_Empowering Practical Root Cause Analysis by Large Language Models for Cloud Incidents [[paper]](https://arxiv.org/pdf/2305.18084.pdf)
 - 23_D-Bot: Database Diagnosis System using Large Language Models [[paper]](https://arxiv.org/pdf/2312.01454.pdf)  [[code]](https://github.com/TsinghuaDatabaseGroup/DB-GPT)
