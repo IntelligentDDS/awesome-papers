@@ -5,14 +5,24 @@
 
 - [LLM4Ops](#llm4ops)
   - [Survey](#survey)
+  - [Anomaly Detection](#anomaly-detection)
   - [Root Cause Analysis and Mitigation](#root-cause-analysis-and-mitigation)
   - [Config](#config)
 
 ## Survey
-- A Survey of AIOps for Failure Management in the Era of
-Large Language Models [[paper]](https://arxiv.org/pdf/2406.11213)
+- 24_A Survey of AIOps for Failure Management in the Era of Large Language Models [[paper]](https://arxiv.org/pdf/2406.11213)
+
+
+## Anomaly Detection
+
+- 24_Large language models can be zero-shot anomaly detectors for time series? [[paper]](https://arxiv.org/abs/2405.14755)
+- 24_RAGLog: Log Anomaly Detection using Retrieval Augmented
+Generation [[paper]](https://arxiv.org/abs/2311.05261)
 
 ## Root Cause Analysis and Mitigation
+- 24_mABC: multi-Agent Blockchain-Inspired Collaboration for root cause analysis in
+micro-services architecture [[paper]](https://arxiv.org/abs/2404.12135)
+- 24_ICSE_Xpert: Empowering Incident Management with Query Recommendations via Large Language Models [[paper]](https://arxiv.org/pdf/2312.11988)
 - 24_Sigops_LLexus: an AI agent system for incident management [[paper]](https://www.microsoft.com/en-us/research/publication/llexus-an-ai-agent-system-for-incident-management/)
 - 24_CIKM_RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models [[paper]](https://arxiv.org/abs/2310.16340)
 - 24_FSE Companion _Leveraging Large Language Models for the Auto-remediation of Microservice Applications: An Experimental Study [[paper]](https://dl.acm.org/doi/abs/10.1145/3663529.3663855)
