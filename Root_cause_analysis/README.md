@@ -32,11 +32,12 @@
 - 20_VLDB_VLDB_Diagnosing Root Causes of Intermittent Slow Queries in Cloud Databases [[paper]](http://www.vldb.org/pvldb/vol13/p1176-ma.pdf) [[code]](https://github.com/NetManAIOps/DejaVu/blob/master/iSQUAD/iSQ.py)
 - 20_IWQoS_Localizing Failure Root Causes in a Microservice through Causality Inference [[paper]](https://ieeexplore.ieee.org/document/9213058)
 - 20_NOMS_MicroRCA: Root Cause Localization of Performance Issues in Microservices [[paper]](https://ieeexplore.ieee.org/document/9110353) [[code]](https://github.com/elastisys/MicroRCA)
-- 20_ICSE_Debugging Crashes using Continuous Contrast Set Mining 
-- 16_ICSE_iDice: Problem Identification for Emerging Issues [[paper]](http://hongyujohn.github.io/iDice.pdf)
+- 20_ICSE_Debugging Crashes using Continuous Contrast Set Mining [[paper]](https://arxiv.org/abs/1911.04768)
+- 19_WWW_ϵ-Diagnosis: Unsupervised and Real-time Diagnosis of Smallwindow Long-tail Latency in Large-scale Microservice Platforms [[paper]](https://monadyn.github.io/Papers/p3215-shan.pdf) [[code]](https://github.com/salesforce/PyRCA)
 - 18_ICSOC_Microscope: Pinpoint Performance Issues with Causal Graphs in Micro-service Environments [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-03596-9_1)
 - 18_OSDI_Orca: Differential Bug Localization in Large-Scale Services [[paper]](https://www.usenix.org/conference/osdi18/presentation/bhagwan) Awarded Best Paper! 👍
 - 14_NSDI_Adtributor: Revenue Debugging in Advertising Systems [[paper]](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-bhagwan.pdf)
+- 16_ICSE_iDice: Problem Identification for Emerging Issues [[paper]](http://hongyujohn.github.io/iDice.pdf)
 
 ## Log
 
