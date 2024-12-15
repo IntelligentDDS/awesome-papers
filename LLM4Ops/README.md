@@ -8,6 +8,7 @@
   - [Anomaly Detection](#anomaly-detection)
   - [Root Cause Analysis and Mitigation](#root-cause-analysis-and-mitigation)
   - [Config](#config)
+  - [Rag](#rag)
 
 ## Survey
 - 24_A Survey of AIOps for Failure Management in the Era of Large Language Models [[paper]](https://arxiv.org/pdf/2406.11213)
@@ -43,3 +44,6 @@
 - 24_Identifying Performance-Sensitive Configurations in Software Systems through Code Analysis with LLM Agents [[paper]](https://arxiv.org/pdf/2406.12806)
 - 24_ICSE-SEIP_MissConf: LLM-Enhanced Reproduction of Configuration-Triggered Bugs [[paper]](https://dl.acm.org/doi/pdf/10.1145/3639478.3647635)
 - 24_ISSTA_Config_Face It Yourselves: An LLM-Based Two-Stage Strategy to Localize Configuration Errors via Logs [[paper]](https://arxiv.org/abs/2404.00640)
+
+## Rag
+- 24_DECO: Life-Cycle Management of Enterprise-Grade Chatbots [[paper]](https://arxiv.org/abs/2412.06099)

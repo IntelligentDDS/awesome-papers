@@ -12,6 +12,7 @@
 - 22_NSDI_Orca: A Distributed Serving System for Transformer-Based Generative Models [[paper]](https://www.usenix.org/conference/osdi22/presentation/yu)
 
 ## Resource Allocation
+- 24_Eurosys_Atlas: Hybrid Cloud Migration Advisor for Interactive Microservices [[paper]](https://dl.acm.org/doi/pdf/10.1145/3627703.3629587) [[code]](https://github.com/IBM/DeepAtlas)
 - 22_SoCC_SIMPPO: A Scalable and Incremental Online Learning Framework for Serverless Resource Management [[paper]](https://haoran-qiu.com/pdf/socc22.pdf)
 - 22_Asplos_SOL: Safe On-Node Learning in Cloud Platforms [[paper]](https://dl.acm.org/doi/pdf/10.1145/3503222.3507704)
 - 21_ICML_Resource Allocation in Multi-armed Bandit Exploration: Overcoming Sublinear Scaling with Adaptive Parallelism [[paper]](http://proceedings.mlr.press/v139/thananjeyan21a/thananjeyan21a.pdf)
@@ -20,6 +21,7 @@
 
 
 ## Autoscale
+- 24_Eurosys_Erlang: Application-Aware Autoscaling for Cloud Microservices [[paper]](https://dl.acm.org/doi/10.1145/3627703.3650084) [[code]](https://github.com/vigsachi/ erlang)
 - 24_SC_Fast and Efficient Scaling for Microservices with SurgeGuard [[paper]](https://dl.acm.org/doi/10.1109/SC41406.2024.00103)
 - 24_NSDI_Autothrottle: A Practical Bi-Level Approach to Resource Management for SLO-Targeted Microservices [[paper]](https://www.usenix.org/system/files/nsdi24-wang-zibo.pdf) [[code]](https://github.com/microsoft/autothrottle)
 - 23_ATC_AWARE: Automate Workload Autoscaling with Reinforcement Learning in Production Cloud Systems [[paper]](https://www.usenix.org/system/files/atc23-qiu-haoran.pdf) [[Code]](https://gitlab.engr.illinois.edu/DEPEND/aware)
@@ -28,6 +30,7 @@
 - 22_SoCC_DeepScaling: Microservices AutoScaling for Stable CPU Utilization in Large Scale Cloud Systems [[paper]](https://dl.acm.org/doi/pdf/10.1145/3542929.3563469)
 - 22_SoCC_The Power of Prediction: Microservice Auto Scaling via Workload Learning [[paper]](https://dl.acm.org/doi/abs/10.1145/3542929.3563477)
 - 22_TCC_Microscaler: Cost-effective scaling for microservice applications in the cloud with an online learning approach [[paper]](https://ieeexplore.ieee.org/abstract/document/9057418/)
+- 22_HPDC_Practical Efficient Microservice Autoscaling with QoS Assurance [[paper]](https://dl.acm.org/doi/pdf/10.1145/3502181.3531460)
 - 22_ICWS_HRA: An Intelligent Holistic Resource Autoscaling Framework for Multi-service Applications [[paper]](https://ieeexplore.ieee.org/document/9885736)
 - 21_SoCC_SHOWAR: Right-Sizing And Efficient Scheduling of Microservices [[paper]](https://dl.acm.org/doi/10.1145/3472883.3486999) 
 - 20_OSDI_FIRM: An intelligent fine-grained resource management framework for slo-oriented microservices [[paper]](https://www.usenix.org/conference/osdi20/presentation/qiu)

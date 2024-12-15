@@ -71,12 +71,12 @@
 - 15_SIGMOD_Lineage-driven Fault Injection [[paper]](https://dl.acm.org/doi/10.1145/2723372.2723711)
 
 ### Fault Recovery
-
--24_Eurosys_Atlas: Hybrid Cloud Migration Advisor for Interactive Microservices [[paper]](https://arxiv.org/pdf/2311.06962.pdf)
-
+- 24_SoCC_Deoxys: A Causal Inference Engine for Unhealthy Node Mitigation in Large-scale Cloud Infrastructure [[paper]](https://arxiv.org/abs/2410.17709)
+- 24_Eurosys_Atlas: Hybrid Cloud Migration Advisor for Interactive Microservices [[paper]](https://arxiv.org/pdf/2311.06962.pdf)
 - 22_KDD_NENYA: Cascade Reinforcement Learning for Cost-Aware Failure Mitigation at Microsoft 365 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539127)
 - 22_SoCC_Method Overloading the Circuit [[paper]](https://dl.acm.org/doi/abs/10.1145/3542929.3563466) [[video]](https://www.youtube.com/watch?v=A3FWuvDEZJI)
 - 21_DSN_FIRestarter: Practical Software Crash Recovery with Targeted Library-level Fault Injection [[paper]](https://download.vusec.net/papers/firestarter_dsn21.pdf) [[code]](https://github.com/vusec/firestarter)
+- 20_OSDI_Narya: Predictive and Adaptive Failure Mitigation to Avert Production Cloud VM Interruptions [[paper]](https://www.usenix.org/conference/osdi20/presentation/levy)
   
   
 
